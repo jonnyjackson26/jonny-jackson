@@ -4,7 +4,7 @@ title = 'Jonny Jackson'
 theme = 'PaperMod'
 
 [pagination]
-  pagerSize = 10
+  pagerSize = 50 #idk if its bad that this is so high?
 
 [params]
   env = "production"  # change to "development" if needed

@@ -20,5 +20,7 @@ showCodeCopyButtons: true
 
 I built a fully custom CPU in logism
 
-[Youtube](https://www.youtube.com/watch?v=GrMDUsmhhmk&feature=youtu.be)  
+{{< youtube GrMDUsmhhmk >}}
+
+[Youtube](https://www.youtube.com/watch?v=GrMDUsmhhmk)  
 [Github](https://github.com/jonnyjackson26/CPU_in_logism)
