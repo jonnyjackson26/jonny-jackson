@@ -16,7 +16,7 @@ theme = 'PaperMod'
   defaultTheme = "auto"  # dark, light, or auto
   disableThemeToggle = false
 
-  ShowReadingTime = true
+  ShowReadingTime = false
   ShowShareButtons = true
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
@@ -35,6 +35,24 @@ theme = 'PaperMod'
   [params.search]
     enabled = true
     type = "lunr"  
+
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:jrsjackson26@gmail.com"
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/jonnyjackson26"
+
+  [[params.socialIcons]]
+    name = "youtube"
+    url = "https://www.youtube.com/channel/UCUPGPAKijHmEutSMKr6cnwg"
+
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/jonny-jackson/"
+    
+
 
 [menu]
   [[menu.main]]

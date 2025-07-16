@@ -1,7 +1,7 @@
 ---
-title: "Building 2"
-date: 2025-07-16T10:00:00Z
-draft: false
+title: "Draft"
+date: 2024-01-16T10:00:00Z
+draft: true
 summary: "A deep dive into how I built my personal website from scratch using Hugo and PaperMod."
 tags: ["portfolio", "hugo", "webdev", "PaperMod"]
 categories: ["Projects", "Web Development"]
