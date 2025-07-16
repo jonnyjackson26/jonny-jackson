@@ -1,0 +1,6 @@
+{{ $url := .Destination | safeURL }}
+<a href="{{ $url }}"
+   {{ if strings.HasPrefix $url "http" }}target="_blank" rel="noopener"{{ end }}>
+  {{ .Text | safeHTML }}
+</a>
+<!-- this makes all links open in a new tab -->

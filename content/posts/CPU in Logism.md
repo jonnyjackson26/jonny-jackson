@@ -1,0 +1,24 @@
+---
+title: "Custom CPU in Logism"
+date: 2024-10-01T10:00:00Z
+draft: false
+summary: "A custom CPU in Logism"
+tags: ["logic", "logism"]
+categories: ["Computer Architecture", "Logism"]
+author: "Jonny Jackson"
+
+cover:
+  image: "/images/portfolio-cover.jpg"
+  alt: "Screenshot of my portfolio homepage"
+  caption: "A clean and minimal homepage built with Hugo and PaperMod."
+  relative: true
+
+showBreadcrumbs: true
+showPostNavLinks: true
+showCodeCopyButtons: true
+---
+
+I built a fully custom CPU in logism
+
+[Youtube](https://www.youtube.com/watch?v=GrMDUsmhhmk&feature=youtu.be)  
+[Github](https://github.com/jonnyjackson26/CPU_in_logism)

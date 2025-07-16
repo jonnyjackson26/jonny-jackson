@@ -1,0 +1,64 @@
+baseURL = 'http://localhost/'
+languageCode = 'en-us'
+title = 'Jonny Jackson'
+theme = 'PaperMod'
+
+[pagination]
+  pagerSize = 10
+
+[params]
+  env = "production"  # change to "development" if needed
+  title = "Jonny Jackson"
+  description = "Jonny Jackson's portfolio and coding projects"
+  keywords = ["software", "portfolio", "developer", "Jonny Jackson", "coding", "programmer"]
+  author = "Jonny Jackson"
+  DateFormat = "Jan 2, 2006"
+  defaultTheme = "auto"  # dark, light, or auto
+  disableThemeToggle = false
+
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowToc = true
+  TocOpen = true
+
+  [params.homeInfoParams]
+    Title = "Jonny Jackson"
+    Content = "Software Developer with experience in React, React Native, and Hugo. I'm a 20-year-old computer science major at Utah State University, originally from Kirtland, Ohio. I served a mission (2021-2023) in the Dominican Republic for the Church of Jesus Christ of Latter-day Saints. I love programming, long-distance running, and cycling. Fluent in Spanish and a proud Eagle Scout."
+
+  [params.assets]
+    disableHLJS = false
+    disableFingerprinting = false
+
+  [params.search]
+    enabled = true
+    type = "lunr"  
+
+[menu]
+  [[menu.main]]
+    identifier = "archive"
+    name = "Archive"
+    url = "/archives/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "search"
+    name = "Search"
+    url = "/search/"
+    weight = 3
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]  # JSON is needed for Lunr.js search
+
