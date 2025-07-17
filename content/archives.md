@@ -1,5 +1,5 @@
 ---
 title: "Archive"
-description: "Archive of blog posts."
+description: "All of my projects."
 layout: "archives"
 ---

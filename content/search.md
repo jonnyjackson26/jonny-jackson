@@ -1,5 +1,5 @@
 ---
 title: "Search"
-description: "Search this site."
+description: "Search my projects."
 layout: "search"
---- 
+---

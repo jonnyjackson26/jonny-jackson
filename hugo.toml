@@ -56,22 +56,32 @@ theme = 'PaperMod'
 
 [menu]
   [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+    pre = "🏠 "  # emoji icon
+
+  [[menu.main]]
     identifier = "archive"
     name = "Archive"
     url = "/archives/"
-    weight = 1
+    weight = 2
+    pre = "📦 "
 
   [[menu.main]]
     identifier = "tags"
     name = "Tags"
     url = "/tags/"
-    weight = 2
+    weight = 3
+    pre = "🏷️ "
 
   [[menu.main]]
     identifier = "search"
     name = "Search"
     url = "/search/"
-    weight = 3
+    weight = 4
+    pre = "🔍 "
 
 [taxonomies]
   category = "categories"
