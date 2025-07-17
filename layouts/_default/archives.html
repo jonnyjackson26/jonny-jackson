@@ -1,0 +1,29 @@
+{{ define "main" }}
+<main class="main archive">
+  <h1 class="page-title">{{ .Title }}</h1>
+  {{ with .Params.description }}
+    <p class="page-subtitle">{{ . }}</p>
+  {{ end }}
+  <hr/>
+
+  {{ with .Content }}
+    <div class="page-content">{{ . }}</div>
+  {{ end }}
+
+
+  <section class="archive-list">
+    {{ range where .Site.RegularPages "Section" "posts" }}
+      <article class="archive-entry">
+        <header class="entry-header">
+          <h2 class="entry-title">
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+          </h2>
+        </header>
+        <footer class="entry-footer">
+          <time datetime="{{ .Date.Format "2006-01" }}">{{ .Date.Format "Jan 2006" }}</time>
+        </footer>
+      </article>
+    {{ end }}
+  </section>
+</main>
+{{ end }}
