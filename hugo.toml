@@ -1,4 +1,4 @@
-baseURL = "{{ getenv `HUGO_BASEURL` | default `http://localhost:1313/` }}"
+baseURL = "https://jonny-jackson.com/"
 languageCode = 'en-us'
 title = 'Jonny Jackson'
 theme = 'PaperMod'
