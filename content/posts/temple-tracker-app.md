@@ -3,9 +3,7 @@ title: "Temple Tracker App"
 date: 2025-07-01T10:00:00Z
 draft: false
 summary: "A mobile app to track temple attendances and statistics for members of the Church of Jesus Christ of Latter-Day Saints"
-tags: ["react native", "mobile app"]
-categories: ["Projects", "Church"]
-author: "Jonny Jackson"
+tags: ["react native", "mobile app", "Church"]
 
 cover:
   image: "/images/portfolio-cover.jpg"
@@ -13,7 +11,6 @@ cover:
   caption: "A clean and minimal homepage built with Hugo and PaperMod."
   relative: true
 
-showBreadcrumbs: true
 showPostNavLinks: true
 showCodeCopyButtons: true
 ---

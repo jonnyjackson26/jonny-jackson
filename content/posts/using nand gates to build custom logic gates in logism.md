@@ -4,8 +4,6 @@ date: 2024-09-01T10:00:00Z
 draft: false
 summary: "Custom AND, XOR, OR, NOT, Mux, DMux using only NAND Gates. Also custom 8 way and 16 way OR, 16 bit and, mux, not gates."
 tags: ["logism", "logic", "computer archiecture"]
-categories: ["logism", "logic"]
-author: "Jonny Jackson"
 
 cover:
   hiddenInSingle: true
@@ -13,7 +11,6 @@ cover:
   alt: "Program Demo Thumbnail"
   relative: false
 
-showBreadcrumbs: true
 showPostNavLinks: true
 showCodeCopyButtons: true
 ---

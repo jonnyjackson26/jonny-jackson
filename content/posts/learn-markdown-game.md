@@ -4,8 +4,6 @@ date: 2024-10-01T10:00:00Z
 draft: false
 summary: "An interactive tutorial built in React to teach markdown. Complete with a cheat sheet and live editor."
 tags: ["react", "webdev"]
-categories: ["Projects", "Web Development"]
-author: "Jonny Jackson"
 
 cover:
   image: "/images/portfolio-cover.jpg"
@@ -13,7 +11,6 @@ cover:
   caption: "A clean and minimal homepage built with Hugo and PaperMod."
   relative: true
 
-showBreadcrumbs: true
 showPostNavLinks: true
 showCodeCopyButtons: true
 ---

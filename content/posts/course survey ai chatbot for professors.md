@@ -4,8 +4,6 @@ date: 2024-12-01T10:00:00Z
 draft: false
 summary: "Team project with react frontend, django backend, and AI integration"
 tags: ["django", "react", "python", "ai", "git"]
-categories: ["python", "django", "react"]
-author: "Jonny Jackson"
 
 cover:
   hiddenInSingle: true
@@ -13,7 +11,6 @@ cover:
   alt: "Project Demo Thumbnail"
   relative: false
 
-showBreadcrumbs: true
 showPostNavLinks: true
 showCodeCopyButtons: true
 ---

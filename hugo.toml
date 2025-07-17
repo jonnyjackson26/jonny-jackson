@@ -12,14 +12,14 @@ theme = 'PaperMod'
   description = "Jonny Jackson's portfolio and coding projects"
   keywords = ["software", "portfolio", "developer", "Jonny Jackson", "coding", "programmer"]
   author = "Jonny Jackson"
-  DateFormat = "Jan 2, 2006"
+  DateFormat = "Jan 2006"
   defaultTheme = "auto"  # dark, light, or auto
   disableThemeToggle = false
 
   ShowReadingTime = false
   ShowShareButtons = true
   ShowPostNavLinks = true
-  ShowBreadCrumbs = true
+  ShowBreadCrumbs = false
   ShowCodeCopyButtons = true
   ShowToc = true
   TocOpen = true

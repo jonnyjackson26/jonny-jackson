@@ -4,8 +4,6 @@ date: 2024-10-01T10:00:00Z
 draft: false
 summary: "With gradle in Java, built a custom Shell in which you can make, remove, and change directories and run other programs."
 tags: ["command line", "java", "gradle"]
-categories: ["java", "command line"]
-author: "Jonny Jackson"
 
 cover:
   hiddenInSingle: true
@@ -13,7 +11,6 @@ cover:
   alt: "Program Demo Thumbnail"
   relative: false
 
-showBreadcrumbs: true
 showPostNavLinks: true
 showCodeCopyButtons: true
 ---

@@ -4,8 +4,6 @@ date: 2024-10-01T10:00:00Z
 draft: false
 summary: "Complex algorithms in MIPS"
 tags: ["mips", "assembly", "sorting algorithm", "algorithms"]
-categories: ["assembly", "mips"]
-author: "Jonny Jackson"
 
 cover:
   hiddenInSingle: true
@@ -13,7 +11,6 @@ cover:
   alt: "MIPS Code Demo Thumbnail"
   relative: false
 
-showBreadcrumbs: true
 showPostNavLinks: true
 showCodeCopyButtons: true
 ---

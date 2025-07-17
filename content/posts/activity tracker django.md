@@ -4,8 +4,6 @@ date: 2024-03-01T10:00:00Z
 draft: false
 summary: "Track activites in this Django app"
 tags: ["django", "python"]
-categories: ["django", "python"]
-author: "Jonny Jackson"
 
 cover:
   hiddenInSingle: true
@@ -13,7 +11,6 @@ cover:
   alt: "Activity Tracker Demo Thumbnail"
   relative: false
 
-showBreadcrumbs: true
 showPostNavLinks: true
 showCodeCopyButtons: true
 ---

@@ -4,8 +4,6 @@ date: 2024-05-01T10:00:00Z
 draft: false
 summary: "Developed a website for transitioning between languages while reading the Book of Mormon."
 tags: ["react", "javascript"]
-categories: ["react", "javascript"]
-author: "Jonny Jackson"
 
 cover:
   hiddenInSingle: true
@@ -13,7 +11,6 @@ cover:
   alt: "Program Demo Thumbnail"
   relative: false
 
-showBreadcrumbs: true
 showPostNavLinks: true
 showCodeCopyButtons: true
 ---

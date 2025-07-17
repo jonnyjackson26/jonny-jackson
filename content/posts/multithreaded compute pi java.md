@@ -4,8 +4,6 @@ date: 2024-10-01T10:00:00Z
 draft: false
 summary: "Multi-threaded program that computes the first 1000 digits of Pi. Utilizes all system CPU cores simultaneously, using a task-based scheme to distribute the work."
 tags: ["Java", "multithreaded", "algorithm"]
-categories: ["java"]
-author: "Jonny Jackson"
 
 cover:
   hiddenInSingle: true
@@ -13,7 +11,6 @@ cover:
   alt: "Program Demo Thumbnail"
   relative: false
 
-showBreadcrumbs: true
 showPostNavLinks: true
 showCodeCopyButtons: true
 ---

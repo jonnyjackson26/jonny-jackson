@@ -3,9 +3,7 @@ title: "Custom CPU in Logism"
 date: 2024-10-01T10:00:00Z
 draft: false
 summary: "A custom CPU in Logism"
-tags: ["logic", "logism"]
-categories: ["Computer Architecture", "Logism"]
-author: "Jonny Jackson"
+tags: ["logic", "logism", "Computer Architecture"]
 
 cover:
   image: "/images/portfolio-cover.jpg"
@@ -13,7 +11,6 @@ cover:
   caption: "A clean and minimal homepage built with Hugo and PaperMod."
   relative: true
 
-showBreadcrumbs: true
 showPostNavLinks: true
 showCodeCopyButtons: true
 ---

@@ -4,8 +4,6 @@ date: 2024-02-01T10:00:00Z
 draft: false
 summary: "Use this api: https://usu-quotes-mimic.vercel.app/api/search?query=steve to make a search quotes website"
 tags: ["api", "javascript"]
-categories: ["javascript"]
-author: "Jonny Jackson"
 
 cover:
   hiddenInSingle: true
@@ -13,7 +11,6 @@ cover:
   alt: "Program Demo Thumbnail"
   relative: false
 
-showBreadcrumbs: true
 showPostNavLinks: true
 showCodeCopyButtons: true
 ---

@@ -4,8 +4,6 @@ date: 2024-02-01T10:00:00Z
 draft: false
 summary: "A project for CS1410, this website creates recipe cards. It's focus is on accessibility. It also works well with a screen reader."
 tags: ["accessibility", "javascript"]
-categories: ["javascript"]
-author: "Jonny Jackson"
 
 cover:
   hiddenInSingle: true
@@ -13,7 +11,6 @@ cover:
   alt: "Program Demo Thumbnail"
   relative: false
 
-showBreadcrumbs: true
 showPostNavLinks: true
 showCodeCopyButtons: true
 ---

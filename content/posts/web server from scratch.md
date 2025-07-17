@@ -4,8 +4,6 @@ date: 2024-03-01T10:00:00Z
 draft: false
 summary: "Created a simple web server from scratch in Python"
 tags: ["python", "networks"]
-categories: ["networks", "python"]
-author: "Jonny Jackson"
 
 cover:
   hiddenInSingle: true
@@ -13,7 +11,6 @@ cover:
   alt: "Program Demo Thumbnail"
   relative: false
 
-showBreadcrumbs: true
 showPostNavLinks: true
 showCodeCopyButtons: true
 ---

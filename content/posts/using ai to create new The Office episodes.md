@@ -4,8 +4,6 @@ date: 2024-12-01T10:00:00Z
 draft: false
 summary: "A failed attempt of using python and a large data set of lines from The Office to try and generate new episodes."
 tags: ["python", "ai"]
-categories: ["python", "ai"]
-author: "Jonny Jackson"
 
 cover:
   hiddenInSingle: true
@@ -13,7 +11,6 @@ cover:
   alt: "Program Demo Thumbnail"
   relative: false
 
-showBreadcrumbs: true
 showPostNavLinks: true
 showCodeCopyButtons: true
 ---

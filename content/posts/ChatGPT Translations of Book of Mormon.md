@@ -3,9 +3,7 @@ title: "ChatGPT Translations of the Book of Mormon"
 date: 2024-06-01T10:00:00Z
 draft: false
 summary: "Open AI API used to make a southern, western, and simplified translation of the Book of Mormon"
-tags: ["ai", "python"]
-categories: ["Church", "AI"]
-author: "Jonny Jackson"
+tags: ["ai", "python", "Church"]
 
 cover:
   hiddenInSingle: true
@@ -13,7 +11,6 @@ cover:
   alt: "MIPS Code Demo Thumbnail"
   relative: false
 
-showBreadcrumbs: true
 showPostNavLinks: true
 showCodeCopyButtons: true
 ---
