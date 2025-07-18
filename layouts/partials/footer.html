@@ -136,3 +136,13 @@
     });
 </script>
 {{- end }}
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+<script>
+  // Automatically open the signup/reset modal if there’s a token in the URL
+  if (window.location.hash.match(/invite_token|recovery_token/)) {
+    netlifyIdentity.on('init', () => {
+      netlifyIdentity.open('signup');
+    });
+  }
+  netlifyIdentity.init();
+</script>
