@@ -6,7 +6,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   </head>
   <body>
-    <!-- Load the Decap CMS app -->
+    <!-- Load Decap CMS -->
     <script src="https://unpkg.com/decap-cms@latest/dist/decap-cms.js"></script>
+
+    <!-- Netlify Identity widget (needed for login & invite links) -->
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    <script>
+      // Initialize Netlify Identity
+      netlifyIdentity.on('init', user => {
+        const hash = window.location.hash;
+        // If user clicked an invite or password reset email, open the modal
+        if (hash.includes('invite_token') || hash.includes('recovery_token')) {
+          netlifyIdentity.open('signup');
+        }
+      });
+      netlifyIdentity.init();
+    </script>
   </body>
 </html>
