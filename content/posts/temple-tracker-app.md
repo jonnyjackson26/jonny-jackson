@@ -84,12 +84,12 @@ We may also collect information that Your browser sends whenever You visit our S
 
 ### Analytics
 
-Our app uses Google Firebase Analytics to help us understand how users interact with the app (for example, which screens are most visited and how many people use the app each month). This information is collected in aggregate and does not identify individual users.
+Our app uses PostHog Analytics to help us understand how users interact with the app (for example, which screens are most visited and how many people use the app each month). This information is collected in aggregate and does not identify individual users.
 
 We do not use this data for advertising, tracking across other apps, or selling user data.
 
-For more information on how Firebase handles data, please see Google’s Privacy Policy and Firebase Privacy & Security.
 
+For more information on how PostHog handles data, please see [PostHog’s Privacy Policy](https://posthog.com/privacy).
 
 
 #### Information from Third-Party Authentication Providers
