@@ -23,7 +23,7 @@ A React Native app to track temple attendances, view detailed temple information
 [View showcase on Youtube](https://www.youtube.com/shorts/9J30fs3cxxo)
 {{<youtube 9J30fs3cxxo>}}
 
-[Download on the App Store](apple.com)\
+[Download on the App Store](https://apps.apple.com/us/app/temple-tracker/id6746468200)\
 [Download on the Google Play Store](google.com)
 
 - - -
@@ -88,9 +88,7 @@ Our app uses PostHog Analytics to help us understand how users interact with the
 
 We do not use this data for advertising, tracking across other apps, or selling user data.
 
-
 For more information on how PostHog handles data, please see [PostHog’s Privacy Policy](https://posthog.com/privacy).
-
 
 #### Information from Third-Party Authentication Providers
 
