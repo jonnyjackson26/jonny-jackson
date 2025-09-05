@@ -24,7 +24,7 @@ A React Native app to track temple attendances, view detailed temple information
 {{<youtube 9J30fs3cxxo>}}
 
 [Download on the App Store](https://apps.apple.com/us/app/temple-tracker/id6746468200)\
-[Download on the Google Play Store](google.com)
+[Download on the Google Play Store](https://play.google.com/store/apps/details?id=com.jonnyjackson.templetracker)
 
 - - -
 
