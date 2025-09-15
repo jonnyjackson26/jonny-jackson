@@ -4,6 +4,8 @@ showCodeCopyButtons: true
 title: Custom CPU in Logism
 date: 2024-10-01T10:00:00.000Z
 summary: A custom CPU in Logism
+techstack:
+  - logism
 showPostNavLinks: true
 tags:
   - logic
