@@ -22,7 +22,7 @@ theme = 'PaperMod'
   ShowBreadCrumbs = false
   ShowCodeCopyButtons = true
   ShowToc = true
-  TocOpen = true
+  TocOpen = false
 
   [params.homeInfoParams]
     Title = "Jonny Jackson"

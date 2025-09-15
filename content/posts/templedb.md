@@ -6,10 +6,10 @@ summary: "Brief summary of this project or post"
 tags: []
 
 cover:
-  hiddenInSingle: true
-  image: ""
-  alt: ""
-  relative: false
+  image: "/images/screenshots/templedb_org.png"
+  alt: "Screenshot of my portfolio homepage"
+  caption: "A clean and minimal homepage built with Hugo and PaperMod."
+  relative: true
 
 showPostNavLinks: true
 showCodeCopyButtons: true

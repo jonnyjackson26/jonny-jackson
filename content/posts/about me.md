@@ -1,5 +1,6 @@
 ---
 title: "About Me"
+weight: -100000000
 date: 2025-07-16T10:00:00Z
 draft: false
 summary: "I’m a 20-year-old computer science major at Utah State University, originally from Kirtland, Ohio. I served a mission (2021-2023) in the Dominican Republic for the Church of Jesus Christ of Latter-day Saints. I love programming, long-distance running, and cycling. Fluent in Spanish and a proud Eagle Scout."

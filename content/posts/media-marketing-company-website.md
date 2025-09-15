@@ -8,6 +8,10 @@ summary: A 3 page NextJS website for Alba Creative Company, a Utah-based media
 tags:
   - nextjs
 cover:
-  hiddenInSingle: false
+  image: "/images/screenshots/albacreativecompany_com.png"
+  alt: "Screenshot of my portfolio homepage"
+  caption: "A clean and minimal homepage built with Hugo and PaperMod."
+  relative: true
 ---
+
 [Live Site](albacreativecompany.com)

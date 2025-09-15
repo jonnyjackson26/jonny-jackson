@@ -17,6 +17,13 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
+      - {
+          label: "Weight",
+          name: "weight",
+          widget: "number",
+          required: false,
+          default: 0,
+        }
       - { label: "Draft", name: "draft", widget: "boolean", default: false }
       - { label: "Summary", name: "summary", widget: "text", required: false }
       - { label: "Tags", name: "tags", widget: "list", default: [] }
