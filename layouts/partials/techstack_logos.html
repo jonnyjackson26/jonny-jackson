@@ -1,8 +1,24 @@
 {{- if .Params.techstack -}}
-<div class="techstack-logos">
-  {{- range .Params.techstack -}}
-    {{- $logoPath := printf "/techstack_logos/%s.png" . -}}
-    <img src="{{ $logoPath }}" alt="{{ . }} logo" class="techstack-logo" title="{{ . }}" />
-  {{- end -}}
-</div>
+  {{- $tooltips := dict
+      "react" "React"
+      "hugo" "Hugo"
+      "python" "Python"
+      "nextJS" "Next JS"
+      "logism" "Logism"
+      "app_store" "Available on the App Store"
+      "google_play_store" "Available on Google Play Store"
+      "firebase" "Firebase"
+      "expo" "Expo"
+      "react_native" "React Native"
+      "church" "Church of Jesus Christ of Latter-day Saints"
+  -}}
+  <div class="techstack-logos">
+    {{- range .Params.techstack -}}
+      {{- $logoPath := printf "/techstack_logos/%s.png" . -}}
+      <img src="{{ $logoPath }}"
+           alt="{{ . }} logo"
+           class="techstack-logo"
+           title="{{ index $tooltips . | default . }}" />
+    {{- end -}}
+  </div>
 {{- end -}}

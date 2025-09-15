@@ -3,4 +3,4 @@ hugo server - start
 
 TODO:
 
-- [ ] add images for tags in each card (hugo, docusuarus, next, react) to show my broad capabilities
+- [ ] Create list of techstack and put in readme
