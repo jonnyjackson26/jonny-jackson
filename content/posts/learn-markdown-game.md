@@ -10,11 +10,11 @@ tags:
   - react
   - webdev
 cover:
-  image: ""
-  alt: ""
+  image: https://drive.google.com/file/d/1lsW2vC5q9QXzPgY7IN5aOslMtKHVH1mw/view?usp=drive_link
+  alt: Screenshot of Level 3
   caption: A clean and minimal homepage built with Hugo and PaperMod.
   relative: true
-  hiddenInSingle: true
+  hiddenInSingle: false
 ---
 Vist [learn-markdown-game](https://learn-markdown-game.com) to see the free resource I made to teach markdown in a simple and elegant way.
 
