@@ -10,7 +10,7 @@ tags:
   - react
   - webdev
 cover:
-  image: static/uploads/learn-markdown-game.png
+  image: /uploads/learn-markdown-game.png
   alt: Screenshot of Level 3
   caption: A clean and minimal homepage built with Hugo and PaperMod.
   relative: true
