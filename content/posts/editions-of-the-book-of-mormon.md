@@ -9,10 +9,11 @@ tags:
   - church
   - ""
 cover:
-  image: "/images/screenshots/bom-editions-website_vercel_app_.png"
-  alt: "Screenshot of my portfolio homepage"
-  caption: "A clean and minimal homepage built with Hugo and PaperMod."
+  image: /uploads/templedb-website.png
+  alt: Homepage of templedb.org
+  caption: A clean and minimal homepage built with Hugo and PaperMod.
   relative: true
+  hiddenInSingle: false
 ---
 
 A website to visually compare the editions of the Book of Mormon, as well as to read any of the past published editions. Docusaurus hosted with Vercel.
