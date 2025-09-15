@@ -1,18 +1,23 @@
 ---
-title: "ChatGPT Translations of the Book of Mormon"
-date: 2024-06-01T10:00:00Z
 draft: false
-summary: "Open AI API used to make a southern, western, and simplified translation of the Book of Mormon"
-tags: ["ai", "python", "Church"]
-
+showCodeCopyButtons: true
+title: ChatGPT Translations of the Book of Mormon
+date: 2024-06-01T10:00:00.000Z
+summary: Open AI API used to make a southern, western, and simplified
+  translation of the Book of Mormon
+techstack:
+  - openai
+  - python
+showPostNavLinks: true
+tags:
+  - ai
+  - python
+  - Church
 cover:
   hiddenInSingle: true
-  image: "https://img.youtube.com/vi/BgMSIhUBKSg/maxresdefault.jpg"
-  alt: "MIPS Code Demo Thumbnail"
+  image: https://img.youtube.com/vi/BgMSIhUBKSg/maxresdefault.jpg
+  alt: MIPS Code Demo Thumbnail
   relative: false
-
-showPostNavLinks: true
-showCodeCopyButtons: true
 ---
 
 Open AI API used to make a southern, western, and simplified translation of the Book of Mormon
