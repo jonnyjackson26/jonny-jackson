@@ -10,7 +10,7 @@ tags:
   - react
   - webdev
 cover:
-  image: https://drive.google.com/file/d/1lsW2vC5q9QXzPgY7IN5aOslMtKHVH1mw/view?usp=drive_link
+  image: https://drive.google.com/file/d/1lsW2vC5q9QXzPgY7IN5aOslMtKHVH1mw/view?usp=sharing
   alt: Screenshot of Level 3
   caption: A clean and minimal homepage built with Hugo and PaperMod.
   relative: true
