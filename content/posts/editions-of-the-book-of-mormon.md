@@ -9,7 +9,7 @@ tags:
   - church
   - ""
 cover:
-  image: /uploads/templedb-website.png
+  image: /uploads/bom-editions-website.png
   alt: Homepage of templedb.org
   caption: A clean and minimal homepage built with Hugo and PaperMod.
   relative: true
