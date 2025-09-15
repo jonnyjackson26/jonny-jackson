@@ -5,6 +5,11 @@ title: Temple Tracker App
 date: 2025-07-01T10:00:00.000Z
 summary: A mobile app to track temple attendances and statistics for members of
   the Church of Jesus Christ of Latter-Day Saints
+techstack:
+  - expo
+  - app_store
+  - google_play_store
+  - firebase
 showPostNavLinks: true
 tags:
   - react native
