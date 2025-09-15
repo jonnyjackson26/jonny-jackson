@@ -1,24 +1,18 @@
 ---
-title: "Templedb"
-date: 2025-07-17T10:41:00-06:00
 draft: false
-summary: "Brief summary of this project or post"
-tags: []
-
-cover:
-  image: "/images/screenshots/templedb_org.png"
-  alt: "Screenshot of my portfolio homepage"
-  caption: "A clean and minimal homepage built with Hugo and PaperMod."
-  relative: true
-
-showPostNavLinks: true
 showCodeCopyButtons: true
+title: TempleDB.org
+date: 2025-07-17T10:41:00-06:00
+summary: Brief summary of this project or post
+showPostNavLinks: true
+tags: []
+cover:
+  image: /uploads/templedb-website.png
+  alt: Homepage of TempleDB.org
+  caption: A clean and minimal homepage built with Hugo and PaperMod.
+  relative: true
+  hiddenInSingle: false
 ---
 
-Write your full post content here.
-
-{{< youtube YOUR_VIDEO_ID >}}
-
-[YouTube](https://www.youtube.com/watch?v=YOURVIDEOID)  
-[Github]()  
-[Live Site]()
+A community-run, open-source database with free API for live data on all temples of the Church of Jesus Christ of Latter-day Saints.
+[Live Site](templedb.org)
