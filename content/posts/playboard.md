@@ -6,10 +6,11 @@ summary: Basketball league managment system built with Next JS and Supabase
 tags:
   - NextJS
 cover:
-  image: "/images/screenshots/playboard_pro.png"
-  alt: "Screenshot of my portfolio homepage"
-  caption: "A clean and minimal homepage built with Hugo and PaperMod."
+  image: /uploads/playboard-pro-website.png
+  alt: Demo Page showing basic capabilities of playboard.pro
+  caption: A clean and minimal homepage built with Hugo and PaperMod.
   relative: true
+  hiddenInSingle: false
 ---
 
 Basketball league managment system built with Next JS and Supabase. Just getting started
