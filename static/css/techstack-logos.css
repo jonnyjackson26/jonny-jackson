@@ -1,0 +1,25 @@
+.techstack-logos {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 8px;
+  align-items: center;
+}
+
+.techstack-logo {
+  height: 30px;
+  width: auto;
+  border-radius: 3px;
+  opacity: 0.8;
+  transition: opacity 0.2s ease;
+}
+
+.techstack-logo:hover {
+  opacity: 1;
+}
+
+/* Ensure logos don't interfere with the entry link */
+.techstack-logos {
+  position: relative;
+  z-index: 1;
+}

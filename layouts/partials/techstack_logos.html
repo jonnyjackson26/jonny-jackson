@@ -1,0 +1,8 @@
+{{- if .Params.techstack -}}
+<div class="techstack-logos">
+  {{- range .Params.techstack -}}
+    {{- $logoPath := printf "/techstack_logos/%s.png" . -}}
+    <img src="{{ $logoPath }}" alt="{{ . }} logo" class="techstack-logo" title="{{ . }}" />
+  {{- end -}}
+</div>
+{{- end -}}

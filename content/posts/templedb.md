@@ -6,6 +6,7 @@ date: 2025-07-17T10:41:00-06:00
 summary: Brief summary of this project or post
 showPostNavLinks: true
 tags: []
+techstack: ["python", "docusaurus"]
 cover:
   image: /uploads/templedb-website.png
   alt: Homepage of TempleDB.org

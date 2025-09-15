@@ -4,6 +4,7 @@ date: 2024-02-01T10:00:00Z
 draft: false
 summary: "A project for CS1410, this website creates recipe cards. It's focus is on accessibility. It also works well with a screen reader."
 tags: ["accessibility", "javascript"]
+techstack: ["javascript"]
 
 cover:
   hiddenInSingle: true
