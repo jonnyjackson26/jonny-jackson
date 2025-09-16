@@ -5,6 +5,10 @@ draft: false
 summary: Basketball league managment system built with Next JS and Supabase
 tags:
   - NextJS
+techstack:
+  - nextjs
+  - supabase
+  - vercel
 cover:
   image: /uploads/playboard-pro-website.png
   alt: Demo Page showing basic capabilities of playboard.pro
