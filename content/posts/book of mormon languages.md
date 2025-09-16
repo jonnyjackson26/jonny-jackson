@@ -8,8 +8,6 @@ summary: Developed a website for transitioning between languages while reading
 techstack:
   - react
   - django
-  - python
-  - javascript
 showPostNavLinks: true
 tags:
   - react
