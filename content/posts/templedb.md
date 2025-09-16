@@ -3,10 +3,14 @@ draft: false
 showCodeCopyButtons: true
 title: TempleDB.org
 date: 2025-07-17T10:41:00-06:00
+weight: 60
 summary: A community-run, open-source database with free API for live data on
   all temples of the Church of Jesus Christ of Latter-day Saints.
 techstack:
   - nextJS
+  - vercel
+  - firebase
+  - church
 showPostNavLinks: true
 tags: []
 cover:
