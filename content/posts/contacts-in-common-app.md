@@ -11,6 +11,11 @@ summary: >-
 tags:
   - reactnative
   - apps
+techstack:
+  - app_store
+  - google_play_store
+  - expo
+  - supabase
 cover:
   hiddenInSingle: false
 ---
