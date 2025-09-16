@@ -5,6 +5,8 @@ draft: false
 summary: Multiply numbers in less than O(n^2) time.
 tags:
   - Algorithms
+techstack:
+  - python
 cover:
   hiddenInSingle: false
   image: https://youtu.be/dqWqJ6-64tM
