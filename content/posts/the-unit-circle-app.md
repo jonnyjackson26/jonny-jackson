@@ -27,6 +27,10 @@ tags:
   - math
   - apps
   - reactnative
+techstack:
+  - app_store
+  - google_play_store
+  - expo
 cover:
   hiddenInSingle: false
 ---
