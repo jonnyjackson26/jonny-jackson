@@ -3,6 +3,7 @@ draft: false
 showCodeCopyButtons: true
 title: Book of Mormon Languages
 date: 2024-05-01T10:00:00.000Z
+weight: 22
 summary: Developed a website for transitioning between languages while reading
   the Book of Mormon.
 techstack:
