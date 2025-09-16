@@ -1,18 +1,22 @@
 ---
-title: "Activity Tracker in Django"
-date: 2024-03-01T10:00:00Z
 draft: false
-summary: "Track activites in this Django app"
-tags: ["django", "python"]
-
+showCodeCopyButtons: true
+title: Activity Tracker in Django
+date: 2024-03-01T10:00:00.000Z
+summary: Track activites in this Django app
+techstack:
+  - python
+  - django
+  - ""
+showPostNavLinks: true
+tags:
+  - django
+  - python
 cover:
   hiddenInSingle: true
-  image: "https://img.youtube.com/vi/jzF5Vvqb6sg/maxresdefault.jpg"
-  alt: "Activity Tracker Demo Thumbnail"
+  image: https://img.youtube.com/vi/jzF5Vvqb6sg/maxresdefault.jpg
+  alt: Activity Tracker Demo Thumbnail
   relative: false
-
-showPostNavLinks: true
-showCodeCopyButtons: true
 ---
 
 Django app that users can track different activities
