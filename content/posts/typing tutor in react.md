@@ -1,18 +1,20 @@
 ---
-title: "Typing tutor in React"
-date: 2024-04-01T10:00:00Z
 draft: false
-summary: "Typing tutor in React"
-tags: ["react", "javascript"]
-
+showCodeCopyButtons: true
+title: Typing tutor in React
+date: 2024-04-01T10:00:00.000Z
+summary: Typing tutor in React
+techstack:
+  - react
+showPostNavLinks: true
+tags:
+  - react
+  - javascript
 cover:
   hiddenInSingle: true
-  image: "https://img.youtube.com/vi/A7DTQ8dOGsA/maxresdefault.jpg"
-  alt: "Program Demo Thumbnail"
+  image: https://img.youtube.com/vi/A7DTQ8dOGsA/maxresdefault.jpg
+  alt: Program Demo Thumbnail
   relative: false
-
-showPostNavLinks: true
-showCodeCopyButtons: true
 ---
 
 Typing tutor in React
