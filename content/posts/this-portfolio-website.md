@@ -11,6 +11,8 @@ techstack:
   - hugo
 cover:
   hiddenInSingle: false
+  image: /uploads/jonny-jackson.png
+  alt: jonny-jackson.com homepage
 ---
 
 A portfolio website written in HUGO, deployed on Netlify with Decap CMS
