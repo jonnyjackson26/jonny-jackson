@@ -1,18 +1,24 @@
 ---
-title: "Book of Mormon Languages"
-date: 2024-05-01T10:00:00Z
 draft: false
-summary: "Developed a website for transitioning between languages while reading the Book of Mormon."
-tags: ["react", "javascript"]
-
+showCodeCopyButtons: true
+title: Book of Mormon Languages
+date: 2024-05-01T10:00:00.000Z
+summary: Developed a website for transitioning between languages while reading
+  the Book of Mormon.
+techstack:
+  - react
+  - django
+  - python
+  - javascript
+showPostNavLinks: true
+tags:
+  - react
+  - javascript
 cover:
   hiddenInSingle: true
-  image: "https://img.youtube.com/vi/9gpYvcgTQdg/maxresdefault.jpg"
-  alt: "Program Demo Thumbnail"
+  image: https://img.youtube.com/vi/9gpYvcgTQdg/maxresdefault.jpg
+  alt: Program Demo Thumbnail
   relative: false
-
-showPostNavLinks: true
-showCodeCopyButtons: true
 ---
 
 Developed a website for transitioning between languages while reading the Book of Mormon.
