@@ -1,18 +1,20 @@
 ---
-title: "Web Server from scratch in Python"
-date: 2024-03-01T10:00:00Z
 draft: false
-summary: "Created a simple web server from scratch in Python"
-tags: ["python", "networks"]
-
+showCodeCopyButtons: true
+title: Web Server from scratch in Python
+date: 2024-03-01T10:00:00.000Z
+summary: Created a simple web server from scratch in Python
+techstack:
+  - python
+showPostNavLinks: true
+tags:
+  - python
+  - networks
 cover:
   hiddenInSingle: true
-  image: "https://img.youtube.com/vi/2LZ9Ox9JErY/maxresdefault.jpg"
-  alt: "Program Demo Thumbnail"
+  image: https://img.youtube.com/vi/2LZ9Ox9JErY/maxresdefault.jpg
+  alt: Program Demo Thumbnail
   relative: false
-
-showPostNavLinks: true
-showCodeCopyButtons: true
 ---
 
 Created a simple web server from scratch in Python
