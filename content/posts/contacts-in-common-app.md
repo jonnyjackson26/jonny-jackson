@@ -14,8 +14,8 @@ tags:
 techstack:
   - app_store
   - google_play_store
-  - expo
   - supabase
+  - expo
 cover:
   hiddenInSingle: false
 ---
