@@ -13,8 +13,8 @@ techstack:
   - tinacms
   - vercel
 cover:
-  image: /images/screenshots/albacreativecompany_com.png
-  alt: Screenshot of my portfolio homepage
+  image: /uploads/alba.png
+  alt: Albacreativecompany.com homepage
   caption: A clean and minimal homepage built with Hugo and PaperMod.
   relative: true
   hiddenInSingle: false
