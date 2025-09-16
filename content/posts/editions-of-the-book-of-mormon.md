@@ -8,6 +8,11 @@ summary: "A website to visually compare the editions of the Book of Mormon, as
 tags:
   - church
   - ""
+techstack:
+  - docusaurus
+  - vercel
+  - python
+  - church
 cover:
   image: /uploads/bom-editions-website.png
   alt: Homepage of templedb.org
