@@ -7,8 +7,6 @@ summary: Team project with react frontend, django backend, and AI integration
 techstack:
   - django
   - react
-  - python
-  - javascript
   - openai
 showPostNavLinks: true
 tags:
