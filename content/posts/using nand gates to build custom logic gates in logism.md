@@ -1,18 +1,22 @@
 ---
-title: "Using NAND gates to build custom logic gates in Logism"
-date: 2024-09-01T10:00:00Z
 draft: false
-summary: "Custom AND, XOR, OR, NOT, Mux, DMux using only NAND Gates. Also custom 8 way and 16 way OR, 16 bit and, mux, not gates."
-tags: ["logism", "logic", "computer archiecture"]
-
+showCodeCopyButtons: true
+title: Using NAND gates to build custom logic gates in Logism
+date: 2024-09-01T10:00:00.000Z
+summary: Custom AND, XOR, OR, NOT, Mux, DMux using only NAND Gates. Also custom
+  8 way and 16 way OR, 16 bit and, mux, not gates.
+techstack:
+  - logism
+showPostNavLinks: true
+tags:
+  - logism
+  - logic
+  - computer archiecture
 cover:
   hiddenInSingle: true
-  image: "https://img.youtube.com/vi/d_SPhLhdMPU/maxresdefault.jpg"
-  alt: "Program Demo Thumbnail"
+  image: https://img.youtube.com/vi/d_SPhLhdMPU/maxresdefault.jpg
+  alt: Program Demo Thumbnail
   relative: false
-
-showPostNavLinks: true
-showCodeCopyButtons: true
 ---
 
 Custom AND, XOR, OR, NOT, Mux, DMux using only NAND Gates. Also custom 8 way and 16 way OR, 16 bit and, mux, not gates.
