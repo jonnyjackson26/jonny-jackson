@@ -1,18 +1,20 @@
 ---
-title: "C++ Online Grocery Order Processing System"
-date: 2025-04-01T10:00:00Z
 draft: false
-summary: "Built a C++ program to process customer orders and payments from files using OOP, polymorphism, and file I/O."
-tags: ["c++"]
-
+showCodeCopyButtons: true
+title: C++ Online Grocery Order Processing System
+date: 2025-04-01T10:00:00.000Z
+summary: Built a C++ program to process customer orders and payments from files
+  using OOP, polymorphism, and file I/O.
+techstack:
+  - c++
+showPostNavLinks: true
+tags:
+  - c++
 cover:
   hiddenInSingle: true
-  image: "https://img.youtube.com/vi/zoRmPKTiyTk/maxresdefault.jpg"
-  alt: "Project Demo Thumbnail"
+  image: https://img.youtube.com/vi/zoRmPKTiyTk/maxresdefault.jpg
+  alt: Project Demo Thumbnail
   relative: false
-
-showPostNavLinks: true
-showCodeCopyButtons: true
 ---
 
 Built a C++ program to process customer orders and payments from files using OOP, polymorphism, and file I/O.
