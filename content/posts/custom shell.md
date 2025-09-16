@@ -1,7 +1,7 @@
 ---
 draft: false
 showCodeCopyButtons: true
-title: Custom ShellA
+title: Custom Shell
 date: 2024-10-01T10:00:00.000Z
 summary: With gradle in Java, built a custom Shell in which you can make,
   remove, and change directories and run other programs.
