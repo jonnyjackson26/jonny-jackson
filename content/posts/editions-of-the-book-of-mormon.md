@@ -11,9 +11,9 @@ tags:
   - ""
 techstack:
   - docusaurus
-  - vercel
   - python
   - church
+  - vercel
 cover:
   image: /uploads/bom-editions-website.png
   alt: Homepage of templedb.org
