@@ -1,18 +1,24 @@
 ---
-title: "Quotes website"
-date: 2024-02-01T10:00:00Z
 draft: false
-summary: "Use this api: https://usu-quotes-mimic.vercel.app/api/search?query=steve to make a search quotes website"
-tags: ["api", "javascript"]
-
+showCodeCopyButtons: true
+title: Quotes website
+date: 2024-02-01T10:00:00.000Z
+summary: "Use this api:
+  https://usu-quotes-mimic.vercel.app/api/search?query=steve to make a search
+  quotes website"
+techstack:
+  - html
+  - css
+  - javascript
+showPostNavLinks: true
+tags:
+  - api
+  - javascript
 cover:
   hiddenInSingle: true
-  image: "https://img.youtube.com/vi/VS85BfRf3n8/maxresdefault.jpg"
-  alt: "Program Demo Thumbnail"
+  image: https://img.youtube.com/vi/VS85BfRf3n8/maxresdefault.jpg
+  alt: Program Demo Thumbnail
   relative: false
-
-showPostNavLinks: true
-showCodeCopyButtons: true
 ---
 
 Use this api: https://usu-quotes-mimic.vercel.app/api/search?query=steve to make a search quotes website
