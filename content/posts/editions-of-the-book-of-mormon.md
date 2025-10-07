@@ -23,4 +23,4 @@ cover:
 ---
 A website to visually compare the editions of the Book of Mormon, as well as to read any of the past published editions. Docusaurus hosted with Vercel.
 
-\[Visit](https://bom-editions-website.vercel.app/)
+(Visit)\[https://bom-editions-website.vercel.app/]
