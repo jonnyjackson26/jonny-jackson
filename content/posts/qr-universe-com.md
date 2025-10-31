@@ -1,10 +1,13 @@
 ---
 title: QR-Universe.com
 date: 2025-10-30T19:36:00.000-10:00
-weight: 0
+weight: 33
 draft: false
+summary: A dynamic QR code management tool
 tags: []
-techstack: []
+techstack:
+  - NextJS
+  - Supabase
 cover:
   hiddenInSingle: false
 ---
