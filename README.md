@@ -5,5 +5,3 @@ Hosted on Netlify, uses DecapCMS. I chose to use HUGO for my portfolio site for 
 
 Make sure you `git pull` because any posts you add from the admin dashboard wont be here locally
 `hugo server - start`
-
-list some things i may want to do before i make this github repo public and available for many people to see.... any cleanups?
