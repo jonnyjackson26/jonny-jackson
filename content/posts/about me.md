@@ -3,7 +3,7 @@ title: "About Me"
 weight: -100000000
 date: 2025-07-16T10:00:00Z
 draft: false
-summary: "I earned my degree in Software Engineering from Utah Valley University in May 2026. I love programming, long-distance running, and cycling."
+summary: "I anticipate earning my degree in Software Engineering from Utah Valley University in May 2026. I love programming, long-distance running, and cycling."
 
 cover:
   image: "/images/portfolio-cover.jpg"
@@ -17,43 +17,65 @@ showPostNavLinks: true
 showCodeCopyButtons: true
 ---
 
+I'm a Full-Stack Software Engineer with experience in NextJS and React Native.  
 
-I’m a 21-year-old computer science major at Utah State University, originally from Kirtland, Ohio. I served a mission (2021-2023) in the Dominican Republic for the Church of Jesus Christ of Latter-day Saints. I love programming, long-distance running, and cycling. Fluent in Spanish and a proud Eagle Scout.
+I anticipate earning my degree in Software Engineering from Utah Valley University in May 2026. I love programming, long-distance running, and cycling. I'm fluent in Spanish and a proud Eagle Scout. I'm originally from Kirtland, Ohio. 
 
-Many of my projects have to do with the Restored Gospel of Jesus Christ. If you'd like to see some of them, [Click here](https://jonny-jackson.com/tags/church/)
-
----
-
-# Work Experience
-
-Examination Administer and Proctor - Utah Valley University Testing Services
-Jan 2025 - Current
-
-Administered thousands of professional and placement tests Ensured academic integrity by meticulously proctoring testers
-
-Computer Science TA - Utah State University
-Aug 2024 - Dec 2024
-
-Held office hours for students, graded assignments, and supported the professor in an intro level computer science course.
-
-Construction Worker - Jurrus Plaster and Stucco
-Summers 2018-2020
-
-Repaired and installed plaster and stucco, installed drywall.
-
-Door to Door Sales Representative - Aptive Pest Control
-May 2021 - Aug 2021
-
-Optimized daily pest control routes for field technicians.
+I served a mission in the Dominican Republic for the Church of Jesus Christ of Latter-day Saints. Many of my personal projects have to do with the Restored Gospel of Jesus Christ. If you'd like to see some of them, [Click here](https://jonny-jackson.com/tags/church/).
 
 ---
+[Email](mailto:jrsjackson26@gmail.com)
+[GitHub](https://github.com/jonnyjackson26)
+[Youtube](https://www.youtube.com/channel/UCUPGPAKijHmEutSMKr6cnwg)
+[LinkedIn](https://www.linkedin.com/in/jonny-jackson/)  
 
-# Education
-
-Bachelors of Software Engineering - Utah Valley University (Jan 2024 - Current)
-
-High School Diploma - Graduated with High Honors - Kirtland High School (2021)
-
-Associates of Science, Associates of Arts - Lakeland Community College (2021)
-
+[My Resume](/uploads/resume-jonny-jackson.pdf)
 ---
+
+
+## Work Experience
+
+**Testing Center Administrator and Proctor** — Utah Valley University  
+*Jan 2025 – Current | Orem, UT*  
+- Administered standardized tests for thousands of students and professionals  
+- Developed Excel workflows to automate calculations, saving administration ~35 hours per week  
+
+**Computer Science Teaching Assistant (TA)** — Utah State University  
+*Aug 2024 – Dec 2025 | Logan, UT*  
+- Evaluated 1,000+ Python and Java assignments with detailed, actionable feedback  
+- Held weekly office hours supporting 60+ students with debugging, algorithm optimization, and code review  
+
+## Education
+
+**Bachelor of Software Engineering** — Utah Valley University  
+*Graduation: April 2026 (Anticipated) | Orem, UT*  
+- GPA: 3.96  
+
+**Associate of Science & Associate of Arts** — Lakeland Community College  
+*Graduation: May 2021 | Kirtland, OH*  
+- GPA: 3.58 (Graduated with First Honors)  
+- Completed through dual enrollment during high school  
+
+## Portfolio
+
+**Markdown Learning Tutorial** — learn-markdown-game.com  
+- React, Google Analytics, UI/UX  
+- 200 MAU, 1,000+ challenges completed per month  
+
+**Temple Tracker Mobile App**  
+- React Native, Expo, Firebase, PostHog, Sentry  
+- 300+ downloads across App Store and Google Play in under 3 months  
+
+**Dynamic QR Code Manager** — QR-Universe.com  
+- Next.js, Vercel, Supabase, cron jobs, SQL  
+
+## Skills
+
+- Next.js, React, React Native  
+- Python, Java, SQL  
+- Git, REST APIs  
+- Leadership (managed team of 12 volunteers in the Dominican Republic, 2021–2023)  
+- Fluent in Spanish  
+- Eagle Scout  
+
+
