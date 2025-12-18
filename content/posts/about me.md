@@ -16,20 +16,19 @@ tocOpen: false
 showPostNavLinks: true
 showCodeCopyButtons: true
 ---
+[Email](mailto:jrsjackson26@gmail.com)  
+[GitHub](https://github.com/jonnyjackson26)  
+[Youtube](https://www.youtube.com/channel/UCUPGPAKijHmEutSMKr6cnwg)  
+[LinkedIn](https://www.linkedin.com/in/jonny-jackson/)    
+[My Resume](https://jonny-jackson.com/uploads/jonny-jackson-resume.pdf)
 
+---
 I'm a Full-Stack Software Engineer with experience in NextJS and React Native.  
 
 I anticipate earning my degree in Software Engineering from Utah Valley University in May 2026. I love programming, long-distance running, and cycling. I'm fluent in Spanish and a proud Eagle Scout. I'm originally from Kirtland, Ohio. 
 
 I served a mission in the Dominican Republic for the Church of Jesus Christ of Latter-day Saints. Many of my personal projects have to do with the Restored Gospel of Jesus Christ. If you'd like to see some of them, [Click here](https://jonny-jackson.com/tags/church/).
 
----
-[Email](mailto:jrsjackson26@gmail.com)
-[GitHub](https://github.com/jonnyjackson26)
-[Youtube](https://www.youtube.com/channel/UCUPGPAKijHmEutSMKr6cnwg)
-[LinkedIn](https://www.linkedin.com/in/jonny-jackson/)  
-
-[My Resume](/uploads/resume-jonny-jackson.pdf)
 ---
 
 
@@ -58,7 +57,7 @@ I served a mission in the Dominican Republic for the Church of Jesus Christ of L
 
 ## Portfolio
 
-**Markdown Learning Tutorial** — learn-markdown-game.com  
+**Markdown Learning Tutorial** — [learn-markdown-game.com](https://learn-markdown-game.com)
 - React, Google Analytics, UI/UX  
 - 200 MAU, 1,000+ challenges completed per month  
 
@@ -66,7 +65,7 @@ I served a mission in the Dominican Republic for the Church of Jesus Christ of L
 - React Native, Expo, Firebase, PostHog, Sentry  
 - 300+ downloads across App Store and Google Play in under 3 months  
 
-**Dynamic QR Code Manager** — QR-Universe.com  
+**Dynamic QR Code Manager** — [QR-Universe.com](https://qr-universe.com)
 - Next.js, Vercel, Supabase, cron jobs, SQL  
 
 ## Skills
