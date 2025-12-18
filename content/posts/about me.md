@@ -3,23 +3,24 @@ title: "About Me"
 weight: -100000000
 date: 2025-07-16T10:00:00Z
 draft: false
-summary: "I’m a 20-year-old computer science major at Utah State University, originally from Kirtland, Ohio. I served a mission (2021-2023) in the Dominican Republic for the Church of Jesus Christ of Latter-day Saints. I love programming, long-distance running, and cycling. Fluent in Spanish and a proud Eagle Scout."
+summary: "I earned my degree in Software Engineering from Utah Valley University in May 2026. I love programming, long-distance running, and cycling."
 
 cover:
   image: "/images/portfolio-cover.jpg"
   alt: "Screenshot of my portfolio homepage"
-  caption: "A clean and minimal homepage built with Hugo and PaperMod."
+  caption: "Welcome to my portfolio site! 👋"
   relative: true
 
-showToc: true
-tocOpen: true
+showToc: false
+tocOpen: false
 showPostNavLinks: true
 showCodeCopyButtons: true
 ---
 
-Welcome to my Website! 👋
 
-I’m a 20-year-old computer science major at Utah State University, originally from Kirtland, Ohio. I served a mission (2021-2023) in the Dominican Republic for the Church of Jesus Christ of Latter-day Saints. I love programming, long-distance running, and cycling. Fluent in Spanish and a proud Eagle Scout.
+I’m a 21-year-old computer science major at Utah State University, originally from Kirtland, Ohio. I served a mission (2021-2023) in the Dominican Republic for the Church of Jesus Christ of Latter-day Saints. I love programming, long-distance running, and cycling. Fluent in Spanish and a proud Eagle Scout.
+
+Many of my projects have to do with the Restored Gospel of Jesus Christ. If you'd like to see some of them, [Click here](https://jonny-jackson.com/tags/church/)
 
 ---
 
@@ -56,47 +57,3 @@ High School Diploma - Graduated with High Honors - Kirtland High School (2021)
 Associates of Science, Associates of Arts - Lakeland Community College (2021)
 
 ---
-
-This post documents how I built my personal developer portfolio using **Hugo**, a blazing fast static site generator, and the awesome **PaperMod** theme. Inspired by [jonny-jackson.com](https://jonny-jackson.com), I wanted a site that was minimalist, fast, and easy to maintain.
-
----
-
-## 🚀 Goals
-
-- ✅ Showcase my projects in a clean layout
-- ✅ Optimize for SEO and performance
-- ✅ Include a blog section for thoughts & tutorials
-- ✅ Use dark mode and responsive design
-- ✅ Deploy for free (spoiler: I used GitHub Pages)
-
----
-
-## 🛠 Tech Stack
-
-- [Hugo](https://gohugo.io/)
-- [PaperMod Theme](https://github.com/adityatelange/hugo-PaperMod)
-- Markdown for writing content
-- Git + GitHub for version control and deployment
-
----
-
-## 💡 Features
-
-- Cover images on posts
-- Automatic Table of Contents
-- Code block highlighting with copy buttons
-- Social links and share buttons
-- Fast load times with minified assets
-
----
-
-## 🖼 Sample Project Section
-
-I created a `content/projects` section and used custom archetypes to add metadata for each project.
-
-```toml
-title = "PlayBoard"
-description = "A stats tracker and league management app for basketball players."
-repo = "https://github.com/yourname/playboard"
-tags = ["react", "firebase", "typescript"]
-```

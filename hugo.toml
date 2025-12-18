@@ -4,7 +4,7 @@ title = 'Jonny Jackson'
 theme = 'PaperMod'
 
 [pagination]
-  pagerSize = 50 #idk if its bad that this is so high?
+  pagerSize = 50 
 
 [params]
   env = "production"  # change to "development" if needed
@@ -26,7 +26,7 @@ theme = 'PaperMod'
 
   [params.homeInfoParams]
     Title = "Jonny Jackson"
-    Content = "Software Developer with experience in React, React Native, and Hugo. I'm a 20-year-old computer science major at Utah State University, originally from Kirtland, Ohio. I served a mission (2021-2023) in the Dominican Republic for the Church of Jesus Christ of Latter-day Saints. I love programming, long-distance running, and cycling. Fluent in Spanish and a proud Eagle Scout."
+    Content = "Full-Stack Software Engineer with experience in React and React Native."
 
   [params.assets]
     disableHLJS = false
