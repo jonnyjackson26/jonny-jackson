@@ -50,7 +50,7 @@ I have two data files:
 
 ## About the data:
 The data is from https://github.com/robertrouse/theographic-bible-metadata. 
-Thanks to Robert Rouse from (viz.bible)[https://viz.bible/].
+Thanks to Robert Rouse from [viz.bible](https://viz.bible/).
 The data was taken in December 2025, so any updates to this github database since then may not be reflected on this family tree. 
 I've transformed some of the data from this dataset to match my goals of this project:
  - Before, people had IDs that started with 'rec'.... like 'recxG5Gs5geHBVxh4'. I've switched their ID's to be the fields.personLookUp (like "peter_2745"), in order to be more readable.
@@ -63,7 +63,7 @@ I've transformed some of the data from this dataset to match my goals of this pr
 ## Caveats to this data:
 
 **Unconnected components**:
-There are many unconncted components in this graph (people in the dataset - those mentioned in the bible, that do not have a direct connection to the lineage of Adam and Eve.) For example, it's documented in the dataset that Simon Peter (peter_2745) had a father (<jonas_1687>) and a brother (<andrew_264>), but because these have no other connections to anyone else, they are not displayed in the dataset. A full list of unconected components is available ([Here.](reports/disconnected-components-report.txt ))
+There are many unconncted components in this graph (people in the dataset - those mentioned in the bible, that do not have a direct connection to the lineage of Adam and Eve.) For example, it's documented in the dataset that Simon Peter (peter_2745) had a father (<jonas_1687>) and a brother (<andrew_264>), but because these have no other connections to anyone else, they are not displayed in the dataset. A full list of unconected components is available on Github.
 
 **No relationship for descendants**
 John the baptist (john_1676) is not displayed in this dataset because he is part of an unconnected component (him and his mother elisabeth_1152 and father zacharias_2971). However, he *could* be placed in the family tree because we know from Luke 1:5 
@@ -72,7 +72,7 @@ So there could be a new type of relationship connection "descendantOf" that conn
 
 
 **Sibling relationships**
-It wasn't until after I had finished this project that I realized it was possible for someone to have siblings but no father/mother/spouse/children. For example, person A could be listed simply as a brother to person B, and person B's mother could connect back to Adam and Eve, but just because A and B are "brothers," doesnt mean they necesarrily share the same parent that connects to Adam and Eve. In the original dataset, we're given a list of siblings and half siblings, so we have the data to fix this, I just didn't think about this till later. If someone has the time and interest to go back and fix my mistake, it would be well accepted. It would require creating a new type of connection "sibling" in the graph. However, I'm not even sure that anyone is left out of the family tree that should be here because of this error. A full list of people with only sibling relationships and not parental/spouse/children relationships is available ([Here](reports/orphaned-siblings-report.txt))
+It wasn't until after I had finished this project that I realized it was possible for someone to have siblings but no father/mother/spouse/children. For example, person A could be listed simply as a brother to person B, and person B's mother could connect back to Adam and Eve, but just because A and B are "brothers," doesnt mean they necesarrily share the same parent that connects to Adam and Eve. In the original dataset, we're given a list of siblings and half siblings, so we have the data to fix this, I just didn't think about this till later. If someone has the time and interest to go back and fix my mistake, it would be well accepted. It would require creating a new type of connection "sibling" in the graph. However, I'm not even sure that anyone is left out of the family tree that should be here because of this error. A full list of people with only sibling relationships and not parental/spouse/children relationships is available on GitHub.
 
 
 ## Other Notes about this code:
