@@ -12,7 +12,8 @@ techstack:
   - church
   - vercel
 showPostNavLinks: true
-tags: []
+tags:
+  - church
 cover:
   image: /uploads/templedb-website.png
   alt: Homepage of TempleDB.org
