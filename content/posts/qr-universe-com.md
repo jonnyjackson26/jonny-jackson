@@ -1,7 +1,7 @@
 ---
 title: QR-Universe.com
 date: 2025-10-30T19:36:00.000-10:00
-weight: 1000
+weight: -1000
 draft: false
 summary: A dynamic QR code management tool
 tags: []
