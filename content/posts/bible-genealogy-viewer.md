@@ -11,6 +11,8 @@ techstack:
   - react
 cover:
   hiddenInSingle: false
+  image: /uploads/bible-family-tree-screenshot.png
+  alt: Screenshot of Bible Family Tree
 ---
 **https://bible-family-tree.pages.dev/**
 
