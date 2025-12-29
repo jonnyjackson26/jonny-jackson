@@ -1,20 +1,21 @@
 ---
-title: "About Me"
-weight: -100000000
-date: 2025-07-16T10:00:00Z
 draft: false
-summary: "I anticipate earning my degree in Software Engineering from Utah Valley University in May 2026. I love programming, long-distance running, and cycling."
-
-cover:
-  image: "/images/portfolio-cover.jpg"
-  alt: "Screenshot of my portfolio homepage"
-  caption: "Welcome to my portfolio site! 👋"
-  relative: true
-
+showCodeCopyButtons: true
+title: About Me
+summary: I anticipate earning my degree in Software Engineering from Utah Valley
+  University in May 2026. I love programming, long-distance running, and
+  cycling.
 showToc: false
+date: 2025-07-16T10:00:00.000Z
 tocOpen: false
 showPostNavLinks: true
-showCodeCopyButtons: true
+weight: -100000000
+cover:
+  image: /images/portfolio-cover.jpg
+  alt: Screenshot of my portfolio homepage
+  caption: Welcome to my portfolio site! 👋
+  relative: true
+  hiddenInSingle: true
 ---
 [Email](mailto:jrsjackson26@gmail.com)  
 [GitHub](https://github.com/jonnyjackson26)  
