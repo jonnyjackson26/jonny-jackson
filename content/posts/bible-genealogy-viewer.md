@@ -1,7 +1,7 @@
 ---
 title: "Bible Family Tree "
 date: 2025-12-15T13:59:00.000-07:00
-weight: 45
+weight: -1000
 draft: false
 summary: A comprehensive and interactive family tree of the Bible, from Adam and
   Eve down to Jesus Christ. Uses HTML Canvas and d3-force graph.
