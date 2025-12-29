@@ -10,6 +10,8 @@ techstack:
   - Supabase
 cover:
   hiddenInSingle: false
+  image: /uploads/qr-universe.png
+  alt: QR Code page
 ---
 \### QR Universe
 
