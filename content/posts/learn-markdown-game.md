@@ -3,7 +3,7 @@ draft: false
 showCodeCopyButtons: true
 title: Learn Markdown Game Tutorial
 date: 2024-10-01T10:00:00.000Z
-weight: 998
+weight: -998
 summary: A level-based game tutorial to learn and master markdown, complete with
   a cheat sheet and live editor. Built with React.
 techstack:
