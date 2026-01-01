@@ -218,7 +218,7 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 If you have any questions about this Privacy Policy, You can contact us:
 
 * By email: playboard.pro@gmail.com
-* By visiting this page on our website: <https://jonny-jackson.com>
+* By visiting this page on our website: <https://jonny-jackson.com/posts/playboard-app/>
 
 - - -
 
@@ -280,5 +280,5 @@ These Terms shall be governed by the laws of the State of Utah, United States, w
 If you have any questions about these Terms, you can contact us at:
 
 * **Email**: playboard.pro@gmail.com
-* **Website**: <https://jonny-jackson.com>
+* **Website**: <https://jonny-jackson.com/posts/playboard-app/>
 
