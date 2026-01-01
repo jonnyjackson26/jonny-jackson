@@ -1,7 +1,8 @@
 ---
 title: Playboard League Manager
 date: 2025-08-26T11:22:00.000-06:00
-draft: false
+weight: 1
+draft: true
 summary: Basketball league managment system built with Next JS and Supabase
 tags:
   - NextJS
