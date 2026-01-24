@@ -9,8 +9,7 @@ summary: >-
 
   This app allows users to join a "room" with others by scanning a QR code and then they can see what contacts are shared in common between members of the group. 
 tags:
-  - reactnative
-  - apps
+  - mobile-apps
 techstack:
   - app_store
   - google_play_store

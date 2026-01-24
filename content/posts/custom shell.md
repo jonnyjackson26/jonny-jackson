@@ -9,9 +9,7 @@ techstack:
   - java
 showPostNavLinks: true
 tags:
-  - command line
   - java
-  - gradle
 cover:
   hiddenInSingle: true
   image: https://img.youtube.com/vi/OiRGPOwigOg/maxresdefault.jpg

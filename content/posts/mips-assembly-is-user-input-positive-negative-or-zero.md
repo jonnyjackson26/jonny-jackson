@@ -3,7 +3,7 @@ title: "MIPS Assembly - Is User Input Positive, Negative, or Zero?"
 date: 2024-10-01T10:00:00Z
 draft: false
 summary: "In MIPS Assembly, determine if a user-inputted integer is positive, negative, or zero"
-tags: ["assembly", "mips"]
+tags: ["computer-architecture"]
 
 cover:
   hiddenInSingle: true

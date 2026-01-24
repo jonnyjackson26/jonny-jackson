@@ -11,8 +11,7 @@ techstack:
 showPostNavLinks: true
 tags:
   - Java
-  - multithreaded
-  - algorithm
+  - algorithms
   - math
 cover:
   hiddenInSingle: true

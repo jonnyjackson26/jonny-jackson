@@ -11,7 +11,7 @@ techstack:
   - django
 showPostNavLinks: true
 tags:
-  - react
+  - websites
   - javascript
 cover:
   hiddenInSingle: true

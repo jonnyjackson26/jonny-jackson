@@ -7,7 +7,7 @@ summary: "React frontend, python backend. Hosted on Heroku. Now deprecated "
 tags:
   - church
   - python
-  - react
+  - websites
 techstack: []
 cover:
   hiddenInSingle: false

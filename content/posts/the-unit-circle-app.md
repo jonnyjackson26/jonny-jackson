@@ -25,8 +25,7 @@ summary: >-
   Whether you’re preparing for exams, doing homework, or learning trig for the first time, The Unit Circle App is your go-to tool for mastering trigonometric functions.
 tags:
   - math
-  - apps
-  - reactnative
+  - mobile-apps
 techstack:
   - app_store
   - google_play_store

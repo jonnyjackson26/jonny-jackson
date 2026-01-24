@@ -3,7 +3,9 @@ title: "LDS missionary calendars "
 date: 2025-12-26T19:39:00.000-07:00
 weight: 0
 draft: false
-tags: []
+tags:
+  - websites
+  - church
 techstack: []
 projectLink:
   text: "Visit Site"

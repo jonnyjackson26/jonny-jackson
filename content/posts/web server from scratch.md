@@ -9,7 +9,6 @@ techstack:
 showPostNavLinks: true
 tags:
   - python
-  - networks
 cover:
   hiddenInSingle: true
   image: https://img.youtube.com/vi/2LZ9Ox9JErY/maxresdefault.jpg

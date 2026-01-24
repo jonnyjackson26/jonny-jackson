@@ -8,7 +8,6 @@ techstack:
   - javascript
 showPostNavLinks: true
 tags:
-  - game
   - javascript
 cover:
   hiddenInSingle: true

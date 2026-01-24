@@ -8,9 +8,7 @@ techstack:
   - logism
 showPostNavLinks: true
 tags:
-  - logic
-  - logism
-  - Computer Architecture
+  - computer-architecture
 cover:
   image: https://img.youtube.com/vi/GrMDUsmhhmk/maxresdefault.jpg
   alt: YouTube showcase

@@ -13,8 +13,7 @@ projectLink:
   url: "https://learn-markdown-game.com"
 showPostNavLinks: true
 tags:
-  - react
-  - webdev
+  - websites
 cover:
   image: /uploads/learn-markdown-game.png
   alt: Screenshot of Level 3

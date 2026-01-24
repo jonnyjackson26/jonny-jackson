@@ -7,7 +7,7 @@ summary: A 3 page NextJS website for Alba Creative Company, a Utah-based media
   marketing company. Uses TinaCMS for content managment. Generates leads with
   embedded email form.
 tags:
-  - nextjs
+  - websites
 techstack:
   - nextjs
   - tinacms

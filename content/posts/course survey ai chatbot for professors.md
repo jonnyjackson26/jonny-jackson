@@ -11,10 +11,9 @@ techstack:
 showPostNavLinks: true
 tags:
   - django
-  - react
+  - websites
   - python
   - ai
-  - git
 cover:
   hiddenInSingle: true
   image: https://img.youtube.com/vi/zoRmPKTiyTk/maxresdefault.jpg

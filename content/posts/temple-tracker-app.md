@@ -15,8 +15,7 @@ projectLink:
   url: "https://apps.apple.com/us/app/temple-tracker/id6746468200"
 showPostNavLinks: true
 tags:
-  - react native
-  - mobile app
+  - mobile-apps
   - Church
 cover:
   hiddenInSingle: true

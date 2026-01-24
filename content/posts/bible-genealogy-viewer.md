@@ -7,6 +7,7 @@ summary: A comprehensive and interactive family tree of the Bible, from Adam and
   Eve down to Jesus Christ. Uses HTML Canvas and d3-force graph.
 tags:
   - church
+  - websites
 techstack:
   - react
 projectLink:

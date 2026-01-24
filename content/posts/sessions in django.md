@@ -9,7 +9,6 @@ techstack:
   - django
 showPostNavLinks: true
 tags:
-  - sessions
   - python
   - django
 cover:

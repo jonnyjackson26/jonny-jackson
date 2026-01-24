@@ -3,7 +3,7 @@ title: "Basic MIPS Assembly Programs"
 date: 2024-10-01T10:00:00Z
 draft: false
 summary: "Homework assignment for CS2810 in which I add 3 integers, print out a complex equation using user inputs, and take the average of 4 integers using MIPS Assembly"
-tags: ["assembly", "mips"]
+tags: ["computer-architecture"]
 
 cover:
   hiddenInSingle: true

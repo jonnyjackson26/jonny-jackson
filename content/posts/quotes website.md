@@ -12,6 +12,7 @@ techstack:
   - javascript
 showPostNavLinks: true
 tags:
+  - websites
   - api
   - javascript
 cover:

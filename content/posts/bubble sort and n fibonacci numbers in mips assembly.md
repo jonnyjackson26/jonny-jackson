@@ -3,7 +3,7 @@ title: "Bubble Sort and N Fibonacci Numbers in MIPS Assembly"
 date: 2024-10-01T10:00:00Z
 draft: false
 summary: "Complex algorithms in MIPS"
-tags: ["mips", "assembly", "sorting algorithm", "algorithms"]
+tags: ["computer-architecture", "algorithms"]
 
 cover:
   hiddenInSingle: true

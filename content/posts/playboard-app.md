@@ -6,7 +6,7 @@ draft: false
 summary: Cross platform app to track statistics for any basketball game - from
   pickup to pro league.
 tags:
-  - mobile
+  - mobile-apps
 techstack:
   - expo
   - app_store

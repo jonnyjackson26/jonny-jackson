@@ -5,7 +5,7 @@ weight: 1
 draft: true
 summary: Basketball league managment system built with Next JS and Supabase
 tags:
-  - NextJS
+  - websites
 techstack:
   - nextjs
   - supabase

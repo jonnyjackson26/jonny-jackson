@@ -8,9 +8,7 @@ techstack:
   - logism
 showPostNavLinks: true
 tags:
-  - logism
-  - logic
-  - computer archiecture
+  - computer-architecture
 cover:
   hiddenInSingle: true
   image: https://img.youtube.com/vi/GFAfJZRrJbI/maxresdefault.jpg

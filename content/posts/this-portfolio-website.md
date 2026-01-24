@@ -6,6 +6,7 @@ draft: false
 summary: A portfolio website written in HUGO, deployed on Netlify with Decap CMS
 tags:
   - hugo
+  - websites
 techstack:
   - netlify
   - hugo

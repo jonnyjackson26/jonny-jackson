@@ -8,7 +8,7 @@ summary: The Book of Mormon Editions Project makes it easy to read older
   As well as view a list of changes between editions.
 tags:
   - church
-  - react
+  - websites
 techstack:
   - nextJs
   - vercel
