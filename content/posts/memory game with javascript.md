@@ -8,6 +8,7 @@ techstack:
   - javascript
 showPostNavLinks: true
 tags:
+  - websites
   - javascript
 cover:
   hiddenInSingle: true

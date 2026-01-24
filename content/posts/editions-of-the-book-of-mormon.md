@@ -8,7 +8,7 @@ summary: "A website to visually compare the editions of the Book of Mormon, as
   Vercel.  "
 tags:
   - church
-  - ""
+  - websites
 techstack:
   - docusaurus
   - python

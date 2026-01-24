@@ -3,7 +3,8 @@ title: "Python Snowman Drawing"
 date: 2024-09-01T10:00:00Z
 draft: false
 summary: "Drew a snowman in python with drawly"
-tags: ["python"]
+tags:
+  - python
 
 cover:
   hiddenInSingle: true
