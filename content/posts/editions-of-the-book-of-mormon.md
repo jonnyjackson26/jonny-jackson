@@ -17,7 +17,7 @@ techstack:
 cover:
   image: /uploads/editions-of-the-book-of-mormon/bom-editions-website.png
   alt: Homepage of templedb.org
-  caption: A clean and minimal homepage built with Hugo and PaperMod.
+  caption: Homepage of The Book of Mormon Editions Project Website
   relative: true
   hiddenInSingle: false
 ---

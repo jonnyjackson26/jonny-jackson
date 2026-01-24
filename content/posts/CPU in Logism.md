@@ -12,7 +12,6 @@ tags:
 cover:
   image: https://img.youtube.com/vi/GrMDUsmhhmk/maxresdefault.jpg
   alt: YouTube showcase
-  caption: A clean and minimal homepage built with Hugo and PaperMod.
   relative: true
   hiddenInSingle: false
 ---

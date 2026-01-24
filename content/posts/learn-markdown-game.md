@@ -17,7 +17,7 @@ tags:
 cover:
   image: /uploads/learn-markdown-game/learn-markdown-game.png
   alt: Screenshot of Level 3
-  caption: A clean and minimal homepage built with Hugo and PaperMod.
+  caption: Level 3 of learn-markdown-game.com
   relative: true
   hiddenInSingle: false
 ---

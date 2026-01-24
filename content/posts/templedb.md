@@ -22,7 +22,7 @@ tags:
 cover:
   image: /uploads/templedb/templedb-website.png
   alt: Homepage of TempleDB.org
-  caption: A clean and minimal homepage built with Hugo and PaperMod.
+  caption: Homepage of templedb.org
   relative: true
   hiddenInSingle: false
 ---
