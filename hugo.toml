@@ -26,7 +26,7 @@ theme = 'PaperMod'
 
   [params.homeInfoParams]
     Title = "Jonny Jackson"
-    Content = "Full-Stack Software Engineer with experience in React and React Native."
+    Content = "I love creating things. Full-Stack Software Engineer, mainly with experience in Next.js and React Native/Expo."
 
   [params.assets]
     disableHLJS = false

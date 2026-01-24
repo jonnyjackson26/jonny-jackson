@@ -10,12 +10,12 @@
   height: 30px;
   width: auto;
   border-radius: 3px;
-  opacity: 0.8;
+  opacity: 1;
   transition: opacity 0.2s ease;
 }
 
 .techstack-logo:hover {
-  opacity: 1;
+  opacity: .8;
 }
 
 /* Ensure logos don't interfere with the entry link */
