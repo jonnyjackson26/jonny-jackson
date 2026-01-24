@@ -1,0 +1,7 @@
+{{- if .Params.projectLink -}}
+  {{- if and .Params.projectLink.text .Params.projectLink.url -}}
+    <a href="{{ .Params.projectLink.url }}" class="project-link" target="_blank" rel="noopener noreferrer">
+      {{ .Params.projectLink.text }}
+    </a>
+  {{- end -}}
+{{- end -}}

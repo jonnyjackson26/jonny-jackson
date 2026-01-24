@@ -8,6 +8,9 @@ tags: []
 techstack:
   - NextJS
   - Supabase
+projectLink:
+  text: "Visit Site"
+  url: "https://qr-universe.com"
 cover:
   hiddenInSingle: false
   image: /uploads/qr-universe.png

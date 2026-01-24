@@ -11,6 +11,9 @@ techstack:
   - firebase
   - church
   - vercel
+projectLink:
+  text: "Visit Site"
+  url: "https://templedb.org"
 showPostNavLinks: true
 tags:
   - church

@@ -86,8 +86,13 @@
   {{- end }}
   {{- if not (.Param "hideMeta") }}
   <footer class="entry-footer">
-    {{- partial "post_meta.html" . -}}
-    {{- partial "techstack_logos.html" . -}}
+    <div class="entry-footer-left">
+      {{- partial "post_meta.html" . -}}
+      {{- partial "techstack_logos.html" . -}}
+    </div>
+    <div class="entry-footer-right">
+      {{- partial "project_link.html" . -}}
+    </div>
   </footer>
   {{- end }}
   <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>

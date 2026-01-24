@@ -34,6 +34,23 @@ collections:
           default: [],
           required: false,
         }
+      - label: "Project Link"
+        name: "projectLink"
+        widget: "object"
+        required: false
+        fields:
+          - {
+              label: "Text",
+              name: "text",
+              widget: "string",
+              required: false,
+            }
+          - {
+              label: "URL",
+              name: "url",
+              widget: "string",
+              required: false,
+            }
       - label: "Cover"
         name: "cover"
         widget: "object"
