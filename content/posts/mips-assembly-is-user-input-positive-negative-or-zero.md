@@ -13,6 +13,9 @@ cover:
 
 showPostNavLinks: true
 showCodeCopyButtons: true
+projectLink:
+  text: "View on YouTube"
+  url: "https://www.youtube.com/watch?v=0gS6l-8RGL8"
 ---
 
 In MIPS Assembly, determine if a user-inputted integer is positive, negative, or zero.

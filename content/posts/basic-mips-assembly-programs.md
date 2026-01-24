@@ -13,6 +13,9 @@ cover:
 
 showPostNavLinks: true
 showCodeCopyButtons: true
+projectLink:
+  text: "View on YouTube"
+  url: "https://www.youtube.com/watch?v=u13E2jpKyfc"
 ---
 
 Homework assignment for CS2810 in which I add 3 integers, print out a complex equation using user inputs, and take the average of 4 integers using MIPS Assembly.

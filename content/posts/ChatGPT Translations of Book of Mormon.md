@@ -8,6 +8,9 @@ summary: Open AI API used to make a southern, western, and simplified
 techstack:
   - openai
   - python
+projectLink:
+  text: "Visit Site"
+  url: "https://chatgpt-bom-translations.web.app"
 showPostNavLinks: true
 tags:
   - ai

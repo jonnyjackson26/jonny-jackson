@@ -5,6 +5,9 @@ weight: 0
 draft: false
 tags: []
 techstack: []
+projectLink:
+  text: "Visit Site"
+  url: "https://resumake.me"
 cover:
   hiddenInSingle: false
 ---

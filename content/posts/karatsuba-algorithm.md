@@ -7,6 +7,9 @@ tags:
   - Algorithms
 techstack:
   - python
+projectLink:
+  text: "View on YouTube"
+  url: "https://youtu.be/dqWqJ6-64tM"
 cover:
   hiddenInSingle: false
   image: https://youtu.be/dqWqJ6-64tM

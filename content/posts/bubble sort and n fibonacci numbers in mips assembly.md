@@ -13,6 +13,9 @@ cover:
 
 showPostNavLinks: true
 showCodeCopyButtons: true
+projectLink:
+  text: "View on YouTube"
+  url: "https://www.youtube.com/watch?v=BgMSIhUBKSg"
 ---
 
 Bubble Sort and N Fibonacci Numbers in MIPS Assembly. This was for an assignment from a Computer Systems and Organization class.

@@ -9,6 +9,9 @@ tags:
   - church
 techstack:
   - react
+projectLink:
+  text: "Visit Site"
+  url: "https://bible-family-tree.pages.dev"
 cover:
   hiddenInSingle: false
   image: /uploads/bible-family-tree-screenshot.png

@@ -31,6 +31,9 @@ techstack:
   - app_store
   - google_play_store
   - expo
+projectLink:
+  text: "View on App Store"
+  url: "https://apps.apple.com/us/app/the-unit-circle-app/id6752369385"
 cover:
   hiddenInSingle: false
 ---

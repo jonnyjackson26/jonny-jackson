@@ -12,6 +12,9 @@ tags:
 techstack:
   - nextJs
   - vercel
+projectLink:
+  text: "Visit Site"
+  url: "https://bom-editions.vercel.app"
 cover:
   hiddenInSingle: false
   image: /uploads/book-of-mormon-editions-project-screenshot.png

@@ -10,6 +10,9 @@ techstack:
   - google_play_store
   - firebase
   - expo
+projectLink:
+  text: "View on App Store"
+  url: "https://apps.apple.com/us/app/temple-tracker/id6746468200"
 showPostNavLinks: true
 tags:
   - react native

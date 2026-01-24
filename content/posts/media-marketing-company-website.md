@@ -12,6 +12,9 @@ techstack:
   - nextjs
   - tinacms
   - vercel
+projectLink:
+  text: "Visit Site"
+  url: "https://albacreativecompany.com"
 cover:
   image: /uploads/alba.png
   alt: Albacreativecompany.com homepage

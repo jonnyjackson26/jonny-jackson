@@ -16,6 +16,9 @@ techstack:
   - google_play_store
   - supabase
   - expo
+projectLink:
+  text: "View on App Store"
+  url: "https://apps.apple.com/us/app/contacts-in-common/id6739991235"
 cover:
   hiddenInSingle: false
 ---
