@@ -34,3 +34,9 @@
   color: var(--primary);
   text-decoration: underline;
 }
+
+/* Show cover images and full card format in tag views */
+/* Using more specific selector to naturally override theme CSS */
+.post-entry.tag-entry .entry-cover {
+  display: block;
+}
