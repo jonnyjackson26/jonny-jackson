@@ -11,7 +11,7 @@ techstack:
   - supabase
   - vercel
 cover:
-  image: /uploads/playboard-pro-website.png
+  image: /uploads/playboard/playboard-pro-website.png
   alt: Demo Page showing basic capabilities of playboard.pro
   caption: A clean and minimal homepage built with Hugo and PaperMod.
   relative: true

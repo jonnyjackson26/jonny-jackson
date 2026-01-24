@@ -16,7 +16,7 @@ projectLink:
   text: "Visit Site"
   url: "https://albacreativecompany.com"
 cover:
-  image: /uploads/alba.png
+  image: /uploads/media-marketing-company-website/alba.png
   alt: Albacreativecompany.com homepage
   caption: A clean and minimal homepage built with Hugo and PaperMod.
   relative: true

@@ -15,12 +15,12 @@ projectLink:
   url: "https://bible-family-tree.pages.dev"
 cover:
   hiddenInSingle: false
-  image: /uploads/bible-family-tree-screenshot.png
+  image: /uploads/bible-genealogy-viewer/bible-family-tree-screenshot.png
   alt: Screenshot of Bible Family Tree
 ---
 **https://bible-family-tree.pages.dev/**
 
-![Screenshot](/uploads/bible-family-tree-screenshot.png)
+![Screenshot](/uploads/bible-genealogy-viewer/bible-family-tree-screenshot.png)
 
 This is a react web app that displays an interactive, comprehensive family tree of the Bible. It's available at **https://bible-family-tree.pages.dev/** (deployed on cloudflare).  
 
@@ -30,7 +30,7 @@ Check out my [source code on GitHub](https://github.com/jonnyjackson26/bible-fam
 
 ---
 Once as I read through the bible, as I'm sure many people have, I created a family tree like this:
-![Paper Showing Adam and Eve Family Tree ](/uploads/bible-family-tree-journal.jpeg)
+![Paper Showing Adam and Eve Family Tree ](/uploads/bible-genealogy-viewer/bible-family-tree-journal.jpeg)
 And I knew that there was a better way to explore and analyze the genealogy of Adam and Eve as described in the Bible.
 What I came up with was essentially a **graph viewer**. Users can drag and pan around and see the graph of family relationships from Adam to Jesus. 
 

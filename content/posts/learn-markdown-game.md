@@ -15,7 +15,7 @@ showPostNavLinks: true
 tags:
   - websites
 cover:
-  image: /uploads/learn-markdown-game.png
+  image: /uploads/learn-markdown-game/learn-markdown-game.png
   alt: Screenshot of Level 3
   caption: A clean and minimal homepage built with Hugo and PaperMod.
   relative: true

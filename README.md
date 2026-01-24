@@ -1,6 +1,6 @@
 # Jonny-Jackson.com
 
-![Jonny Jackson](static/uploads/jonny-jackson.png)
+![Jonny Jackson](static/uploads/this-portfolio-website/jonny-jackson.png)
 
 My Portfolio Website, hosted on Netlify. Uses DecapCMS. I chose to use HUGO for my portfolio site for it's simplicity, incredible speed, good SEO, and easy maintenance. I used the [PaperMod Theme](https://github.com/adityatelange/hugo-PaperMod).
 
@@ -10,7 +10,7 @@ Make sure you `git pull` because any posts you add from the admin dashboard wont
 
 
 Personal notes:
-add image to media manager, then copy its path, then remove "static" so its "/uploads/learn-markdown-game.png"
+add image to media manager, then copy its path, then remove "static" so its "/uploads/learn-markdown-game/learn-markdown-game.png" (images are organized in project folders)
 
 techstack formatting (if you type react the tooltip will be "React"):
 

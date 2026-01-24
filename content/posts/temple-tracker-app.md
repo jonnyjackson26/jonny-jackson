@@ -23,7 +23,7 @@ cover:
   alt: Temple Tracker Thumbnail
   relative: false
 ---
-![Temple Tracker App Icon](/images/temple-tracker-app-icon.png)
+![Temple Tracker App Icon](/uploads/temple-tracker-app/temple-tracker-app-icon.png)
 
 A React Native app to track temple attendances, view detailed temple information, and see statistics for all visits.
 

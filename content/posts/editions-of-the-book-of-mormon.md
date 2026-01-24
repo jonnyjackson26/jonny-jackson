@@ -15,7 +15,7 @@ techstack:
   - church
   - vercel
 cover:
-  image: /uploads/bom-editions-website.png
+  image: /uploads/editions-of-the-book-of-mormon/bom-editions-website.png
   alt: Homepage of templedb.org
   caption: A clean and minimal homepage built with Hugo and PaperMod.
   relative: true

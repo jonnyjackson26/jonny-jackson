@@ -12,7 +12,7 @@ techstack:
   - hugo
 cover:
   hiddenInSingle: false
-  image: /uploads/jonny-jackson.png
+  image: /uploads/this-portfolio-website/jonny-jackson.png
   alt: jonny-jackson.com homepage
 ---
 

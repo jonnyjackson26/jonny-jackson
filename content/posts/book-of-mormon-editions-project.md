@@ -17,7 +17,7 @@ projectLink:
   url: "https://bom-editions.vercel.app"
 cover:
   hiddenInSingle: false
-  image: /uploads/book-of-mormon-editions-project-screenshot.png
+  image: /uploads/book-of-mormon-editions-project/book-of-mormon-editions-project-screenshot.png
   alt: Homepage of the Book of Mormon Editions Project
 ---
 The [**Book of Mormon Editions Project**](https://bom-editions.vercel.app) is an independent, nonpartisan digital resource dedicated to documenting and presenting the historical textual development of the Book of Mormon. Its purpose is to provide readers, researchers, and students with clear, direct access to multiple published editions, enabling careful study and transparent comparison over time.
@@ -40,19 +40,19 @@ Read the complete text of each of the following edition with clean, consistent f
 Compare editions with inline highlights showing additions, deletions, and modifications.  
 [Try a comparison →](https://bom-editions.vercel.app/en/1830/1-nephi/1?compare=2013)
 
-![Screenshot of 1830 with 2013 comparison](/uploads/book-of-mormon-editions-project-1830-with-2013-comparison.png)
+![Screenshot of 1830 with 2013 comparison](/uploads/book-of-mormon-editions-project/book-of-mormon-editions-project-1830-with-2013-comparison.png)
 
 ### Simultaneous View
 View all editions at once to quickly compare changes.  
 [Open simultaneous view →](https://bom-editions.vercel.app/en/simultaneous/1-nephi/1)
 
-![Screenshot of simultaneous view](/uploads/book-of-mormon-editions-project-simultaneous.png)
+![Screenshot of simultaneous view](/uploads/book-of-mormon-editions-project/book-of-mormon-editions-project-simultaneous.png)
 
 ### Track All Changes
 Browse a comprehensive, structured record of textual changes across editions.  
 [View all changes →](https://bom-editions.vercel.app/changes/all)
 
-![Screenshot of changes 1830 to 1837](/uploads/book-of-mormon-editions-project-changes-1830-1837.png)
+![Screenshot of changes 1830 to 1837](/uploads/book-of-mormon-editions-project/book-of-mormon-editions-project-changes-1830-1837.png)
 
 
 ---

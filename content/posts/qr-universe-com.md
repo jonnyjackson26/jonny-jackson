@@ -14,7 +14,7 @@ projectLink:
   url: "https://qr-universe.com"
 cover:
   hiddenInSingle: false
-  image: /uploads/qr-universe.png
+  image: /uploads/qr-universe-com/qr-universe.png
   alt: QR Code page
 ---
 \### QR Universe

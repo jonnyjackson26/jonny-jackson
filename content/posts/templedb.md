@@ -20,7 +20,7 @@ tags:
   - websites
   - api
 cover:
-  image: /uploads/templedb-website.png
+  image: /uploads/templedb/templedb-website.png
   alt: Homepage of TempleDB.org
   caption: A clean and minimal homepage built with Hugo and PaperMod.
   relative: true

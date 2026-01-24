@@ -11,7 +11,7 @@ tocOpen: false
 showPostNavLinks: true
 weight: -100000000
 cover:
-  image: /images/portfolio-cover.jpg
+  image: /uploads/about-me/portfolio-cover.jpg
   alt: Screenshot of my portfolio homepage
   caption: Welcome to my portfolio site! 👋
   relative: true
