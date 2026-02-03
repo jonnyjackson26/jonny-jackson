@@ -8,19 +8,24 @@ tags:
   - websites
   - api
   - python
-techstack: []
+techstack:
+  - python
+  - javascript
+  - ""
 projectLink:
-  text: "Visit Site"
-  url: "https://device-frames-web.vercel.app"
+  text: Visit Site
+  url: https://device-frames-web.vercel.app
 cover:
   hiddenInSingle: false
 ---
-Web app, hosted on Vercel at [https://device-frames-web.vercel.app/](https://device-frames-web.vercel.app/)  
+Web app, hosted on Vercel for applying a device frame on a screenshot at [https://device-frames-web.vercel.app/](https://device-frames-web.vercel.app/)  
+Web app, hosted on Vercel for viewing and downloading device frame PNGs and metdata at [https://device-frames-media-web.vercel.app/](https://device-frames-media-web.vercel.app/)  
+
 API Docs are hosted on fly.io at [https://device-frames.fly.dev/docs](https://device-frames.fly.dev/docs)    
 
-[GitHub Repo for web app](https://github.com/jonnyjackson26/device-frames-web)  
+[GitHub Repo for web app to apply a device frame on a screenshot](https://github.com/jonnyjackson26/device-frames-web)  
 [GitHub Repo for Python engine (api)](https://github.com/jonnyjackson26/device-frames)  
 
-In the future, plan to add:
-* React Native mobile app
-* CLI tool
+
+[GitHub Repo containg PNG files of many device frames and their metadata](https://github.com/jonnyjackson26/device-frames-media)  
+[GitHub Repo for web app to view and download PNGs](https://github.com/jonnyjackson26/device-frames-media-web)
