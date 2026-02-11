@@ -18,6 +18,12 @@ projectLink:
 cover:
   hiddenInSingle: false
 ---
+
+[test pypi package](https://test.pypi.org/project/device-frames-core/)  
+[PyPi package](https://pypi.org/project/device-frames-core/0.1.1/)  
+`pip install device-frames-core==0.1.1`
+
+
 Web app, hosted on Vercel for applying a device frame on a screenshot at [https://device-frames-web.vercel.app/](https://device-frames-web.vercel.app/)  
 Web app, hosted on Vercel for viewing and downloading device frame PNGs and metdata at [https://device-frames-media-web.vercel.app/](https://device-frames-media-web.vercel.app/)  
 
