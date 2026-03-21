@@ -8,14 +8,16 @@ tags:
 techstack:
   - python
 projectLink:
-  text: "View on YouTube"
-  url: "https://youtu.be/dqWqJ6-64tM"
+  text: View on YouTube
+  url: https://youtu.be/dqWqJ6-64tM
 cover:
   hiddenInSingle: false
-  image: https://youtu.be/dqWqJ6-64tM
+  image: https://img.youtube.com/vi/dqWqJ6-64tM/maxresdefault.jpg
   alt: Karatsuba Algorithm
 ---
-An assignment for Advanced Algorithms class.
+An assignment for Advanced Algorithms class, Multiplying large numbers in less than bigO(n^2) with karatsuba algorithm
+
+
 
 [Github](https://github.com/jonnyjackson26/karatsuba)
 
