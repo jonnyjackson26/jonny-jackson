@@ -11,11 +11,11 @@ tags:
 techstack:
   - react
 projectLink:
-  text: "Visit Site"
-  url: "https://bible-family-tree.pages.dev"
+  text: Visit Site
+  url: https://bible-family-tree.pages.dev
 cover:
   hiddenInSingle: false
-  image: /uploads/bible-genealogy-viewer/bible-family-tree-screenshot.png
+  image: /uploads/bible-genealogy-viewer/bible-family-tree.gif
   alt: Screenshot of Bible Family Tree
 ---
 **https://bible-family-tree.pages.dev/**
