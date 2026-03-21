@@ -8,14 +8,14 @@ summary: A level-based game tutorial to learn and master markdown, complete with
   a cheat sheet and live editor. Built with React.
 techstack:
   - react
-projectLink:
-  text: "Visit Site"
-  url: "https://learn-markdown-game.com"
 showPostNavLinks: true
 tags:
   - websites
+projectLink:
+  text: Visit Site
+  url: https://learn-markdown-game.com
 cover:
-  image: /uploads/learn-markdown-game/learn-markdown-game.png
+  image: /uploads/learn-markdown-game/learn-markdown-game.gif
   alt: Screenshot of Level 3
   caption: Level 3 of learn-markdown-game.com
   relative: true
