@@ -31,8 +31,8 @@ techstack:
   - google_play_store
   - expo
 projectLink:
-  text: "View on App Store"
-  url: "https://apps.apple.com/us/app/the-unit-circle-app/id6752369385"
+  text: View on App Store
+  url: https://apps.apple.com/us/app/the-unit-circle-app/id6752369385
 cover:
   hiddenInSingle: false
 ---
@@ -49,8 +49,8 @@ The Unit Circle App makes trigonometry simple and interactive. Drag points aroun
 
 Whether you’re preparing for exams, doing homework, or learning trig for the first time, The Unit Circle App is your go-to tool for mastering trigonometric functions.
 
-[Download on the App Store](https://apps.apple.com/us/app/temple-tracker/id6746468200)\
-[Download on the Google Play Store](https://play.google.com/store/apps/details?id=com.jonnyjackson.templetracker)  
+[Download on the App Store](https://apps.apple.com/us/app/the-unit-circle-app/id6752369385)\
+[Download on the Google Play Store](https://play.google.com/store/apps/details?id=com.jrsjackson26.unitcircle)  
 [Source code on GitHub](https://github.com/jonnyjackson26/unit-circle-app)
 
 - - -
