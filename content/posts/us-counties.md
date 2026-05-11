@@ -12,4 +12,4 @@ cover:
 ---
 Legal:  
 [Privacy Policy](https://jonny-jackson.com/legal/us-counties-privacy-policy/)  
-[Terms of Service](https://jonny-jackson.com/legal/us-counties-privacy-policy/)   
+[Terms of Service](https://jonny-jackson.com/legal/us-counties-terms-of-service/)   
