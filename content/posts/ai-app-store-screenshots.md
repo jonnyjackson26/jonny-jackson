@@ -18,7 +18,7 @@ projectLink:
   text: Visit Site
   url: https://ai-app-store-screenshots.vercel.app/
 cover:
-  image: /uploads/ai-app-store-screenshots/demo.png
+  image: /uploads/ai-app-store-screenshots/demo.gif
   alt: AI App Store Screenshots demo
   relative: false
   hiddenInSingle: false
