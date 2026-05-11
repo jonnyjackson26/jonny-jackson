@@ -4,7 +4,8 @@ showCodeCopyButtons: true
 title: AI App Store Screenshots
 date: 2026-05-09T10:00:00.000-06:00
 weight: -998
-summary: A canvas-based editor for designing App Store and Play Store screenshots with AI-assisted copy and layout suggestions.
+summary: A canvas-based editor for designing App Store and Play Store
+  screenshots with AI-assisted copy and layout suggestions.
 techstack:
   - nextJS
   - react
@@ -32,5 +33,7 @@ cover:
 [Live web app](https://ai-app-store-screenshots.vercel.app/) hosted on Vercel  
 [GitHub repo](https://github.com/jonnyjackson26/ai-app-store-screenshots)  
 [Demo video](https://youtu.be/UvV-T6Zl3dA)  
+[Read more on Medium](https://medium.com/@jrsjackson26/i-got-tired-of-making-app-store-screenshots-by-hand-b7134e274d8a)  
+[Product Hunt Launch](https://www.producthunt.com/products/ai-app-store-screenshots?launch=ai-app-store-screenshots)  
 
 The editor is built on Fabric.js for the canvas layer, with a Next.js + React + TypeScript frontend and Shadcn UI components. State is managed with Zustand, server data with TanStack Query, and image uploads run through UploadThing. The AI features call OpenAI to suggest copy and layout based on a short description of your app. The whole project is open source under AGPL v3, so you can self-host with your own OpenAI key.
