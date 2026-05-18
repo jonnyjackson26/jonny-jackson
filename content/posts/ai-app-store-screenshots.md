@@ -7,7 +7,7 @@ weight: -998
 summary: A canvas-based editor for designing App Store and Play Store
   screenshots with AI-assisted copy and layout suggestions.
 techstack:
-  - nextJS
+  - nextjs
   - react
   - typescript
   - openai

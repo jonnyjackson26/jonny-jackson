@@ -7,7 +7,7 @@ weight: 60
 summary: A community-run, open-source database with free API for live data on
   all temples of the Church of Jesus Christ of Latter-day Saints.
 techstack:
-  - nextJS
+  - nextjs
   - firebase
   - church
   - vercel
