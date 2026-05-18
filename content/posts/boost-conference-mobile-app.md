@@ -8,9 +8,15 @@ summary: Created the official app for the 2026 n^ Boost Conference in Logan, UT
 tags: []
 techstack: []
 cover:
+  image: /uploads/boost-conference-mobile-app/boost.png
+  alt: Boost Conference Mobile App cover
+  relative: false
   hiddenInSingle: false
 ---
 Official mobile app for the n^ Boost Conference, hosted by [Nucleus](https://www.nucleusutah.org/).
+
+[View showcase on Youtube](https://www.youtube.com/shorts/VjbMXkzDzpo)
+{{<youtube VjbMXkzDzpo>}}
 
 ### Features
 - Swig drink ordering  

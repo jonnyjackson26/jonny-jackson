@@ -8,6 +8,9 @@ summary: Mobile App used to track and see information on every county in the
 tags: []
 techstack: []
 cover:
+  image: /uploads/us-counties/uscounties.png
+  alt: US Counties app cover
+  relative: false
   hiddenInSingle: false
 ---
 Legal:  
