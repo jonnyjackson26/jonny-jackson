@@ -1,7 +1,7 @@
 ---
 title: Boost Conference Mobile App
 date: 2026-03-21T17:05:00.000-06:00
-weight: 0
+weight: 10
 draft: false
 summary: Created the official app for the 2026 n^ Boost Conference in Logan, UT
   at Utah State University

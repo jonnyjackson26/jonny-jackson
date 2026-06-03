@@ -1,7 +1,7 @@
 ---
 title: AI App Icons
 date: 2026-04-09T10:52:00.000-06:00
-weight: 0
+weight: 10
 draft: false
 summary: ""
 tags:

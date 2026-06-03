@@ -1,14 +1,15 @@
 ---
 title: QR-Universe.com
 date: 2025-10-30T19:36:00.000-10:00
-weight: -1000
+weight: -997
 draft: false
 summary: A dynamic QR code management tool
 tags:
   - websites
 techstack:
-  - NextJS
-  - Supabase
+  - nextjs
+  - supabase
+  - stripe
 projectLink:
   text: "Visit Site"
   url: "https://qr-universe.com"
