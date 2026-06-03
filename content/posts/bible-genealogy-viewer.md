@@ -1,7 +1,7 @@
 ---
 title: "Bible Family Tree "
 date: 2025-12-15T13:59:00.000-07:00
-weight: -1000
+weight: -998
 draft: false
 summary: A comprehensive and interactive family tree of the Bible, from Adam and
   Eve down to Jesus Christ. Uses HTML Canvas and d3-force graph.
@@ -85,5 +85,4 @@ It wasn't until after I had finished this project that I realized it was possibl
 * I originally added a field called "nearestTo" to each of the people in the database that didn't have a parent/child/spouse. At the time, my idea was for ALL people mentioned in the bible to be in this family tree, and I would place those that only have a nearestTo field near the person they're nearest to. There would be an invisible connection between the two people. This was nice because it let me place people like Paul, Pharaoh, Pontius Pilate who all do not have any family mentioned in the bible on the tree near where they might've been (Pontius near Jesus, Pharoah near Moses), however, everyone having a nearestTo made it so the tree was too crowded and hard to read. I've removed most of the logic for showing nearestTo connections, but the nearestTo field still remains in my dataset for many orphans.  
 * Fearing too much data displayed and loaded at once would drain user's devices resources, I originally had a slider for the ability to change degrees of seperation. The degrees of seperation being how many degrees away from the focused person could you see. If your focused person was Adam, and your degrees of seperation was 3, you could see down to Cainan, if it was two you could see down to Enos (on Seth's line). However, I later changed my mind and decided that it was too confusing for people, and this didn't drain too hard on most devices, so removed the slider completely and now always show all people all generations down.
 * I load the graph data in in a strange BFS way, not just all at once. I use d3 to generate the graph and found that when I generate the whole graph all at once, it's very flat and wide, and is very hard to read. However, when I render one generation at a time in a BFS, the tree is much taller and skinnier and makes more sense to viewers.
-
 

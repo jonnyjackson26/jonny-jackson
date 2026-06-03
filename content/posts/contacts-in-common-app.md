@@ -1,6 +1,7 @@
 ---
 title: Contacts in Common App
 date: 2025-09-11T13:50:00.000-06:00
+weight: 10
 draft: false
 summary: >-
   React Native Mobile App with Expo and Supabase backend. Emphasizes privacy and
