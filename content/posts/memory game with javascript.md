@@ -12,7 +12,7 @@ tags:
   - javascript
 cover:
   hiddenInSingle: true
-  image: https://img.youtube.com/vi/XxPJVtP-k9Q/maxresdefault.jpg
+  image: https://img.youtube.com/vi/XxPJVtP-k9Q/sddefault.jpg
   alt: Program Demo Thumbnail
   relative: false
 ---

@@ -2,8 +2,7 @@
 draft: false
 showCodeCopyButtons: true
 title: About Me
-summary: I anticipate earning my degree in Software Engineering from Utah Valley
-  University in May 2026. I love programming, long-distance running, and
+summary: I earned a bachelor’s degree in software engineering and a minor in entrepreneurship from Utah Valley University in May 2026. I love programming, long-distance running, and
   cycling.
 showToc: false
 date: 2025-07-16T10:00:00.000Z
@@ -26,9 +25,7 @@ cover:
 ---
 I'm a Full-Stack Software Engineer with experience in NextJS and React Native.  
 
-I anticipate earning my degree in Software Engineering from Utah Valley University in May 2026. I love programming, long-distance running, and cycling. I'm fluent in Spanish and a proud Eagle Scout. I'm originally from Kirtland, Ohio. 
-
-I served a mission in the Dominican Republic for the Church of Jesus Christ of Latter-day Saints. Many of my personal projects have to do with the Restored Gospel of Jesus Christ. If you'd like to see some of them, [Click here](https://jonny-jackson.com/tags/church/).
+I earned a bachelor’s degree in software engineering and a minor in entrepreneurship from Utah Valley University in May 2026. I love programming, long-distance running, and cycling.
 
 ---
 
@@ -48,7 +45,7 @@ I served a mission in the Dominican Republic for the Church of Jesus Christ of L
 ## Education
 
 **Bachelor of Software Engineering** — Utah Valley University  
-*Graduation: April 2026 (Anticipated) | Orem, UT*  
+*Graduation: April 2026 | Orem, UT*  
 - GPA: 3.96  
 
 **Associate of Science & Associate of Arts** — Lakeland Community College  

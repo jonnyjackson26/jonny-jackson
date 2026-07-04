@@ -1,7 +1,7 @@
 ---
 title: "Python Snowman Drawing"
 date: 2024-09-01T10:00:00Z
-draft: false
+draft: true
 summary: "Drew a snowman in python with drawly"
 tags:
   - python

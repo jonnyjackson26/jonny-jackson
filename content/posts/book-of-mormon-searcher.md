@@ -11,7 +11,11 @@ tags:
 techstack: []
 cover:
   hiddenInSingle: false
+  image: https://img.youtube.com/vi/rrz9lABEWLU/maxresdefault.jpg
+  alt: Book of Mormon Searcher Demo
+  relative: false
 ---
-https://youtu.be/rrz9lABEWLU
-https://github.com/jonnyjackson26/bom-searcher-heroku
-https://bom-searcher-74d5a7d40665.herokuapp.com/
+{{< youtube rrz9lABEWLU >}}
+[Watch on Youtube](https://youtu.be/rrz9lABEWLU)  
+[GitHub](https://github.com/jonnyjackson26/bom-searcher-heroku)  
+[Live site - depreceated](https://bom-searcher-74d5a7d40665.herokuapp.com/)  

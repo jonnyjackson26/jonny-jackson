@@ -11,10 +11,7 @@ showPostNavLinks: true
 tags:
   - c++
 cover:
-  hiddenInSingle: true
-  image: https://img.youtube.com/vi/zoRmPKTiyTk/maxresdefault.jpg
-  alt: Project Demo Thumbnail
-  relative: false
+  hiddenInSingle: false
 ---
 
 Built a C++ program to process customer orders and payments from files using OOP, polymorphism, and file I/O.

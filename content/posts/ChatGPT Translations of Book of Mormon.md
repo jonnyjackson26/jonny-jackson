@@ -18,9 +18,6 @@ tags:
   - Church
 cover:
   hiddenInSingle: true
-  image: https://img.youtube.com/vi/BgMSIhUBKSg/maxresdefault.jpg
-  alt: MIPS Code Demo Thumbnail
-  relative: false
 ---
 
 Open AI API used to make a southern, western, and simplified translation of the Book of Mormon
