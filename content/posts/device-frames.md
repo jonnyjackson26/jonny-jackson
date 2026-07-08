@@ -23,6 +23,7 @@ cover:
   image: /uploads/device-frames/web.gif
   alt: Screenshot framed in an iPhone mockup
 ---
+![All Devices](https://raw.githubusercontent.com/jonnyjackson26/device-frames-media/refs/heads/main/docs/cover.png)
 
 ![Before and after applying a device frame](/uploads/device-frames/apply_frame.png)
 
