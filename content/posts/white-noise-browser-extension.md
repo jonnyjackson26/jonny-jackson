@@ -21,6 +21,8 @@ A tiny, open-source Manifest V3 Chrome extension that does exactly one boring th
 
 **Source:** [github.com/jonnyjackson26/white-noise-browser-extension](https://github.com/jonnyjackson26/white-noise-browser-extension)
 
+**Chrome Web Store:** [Simple White Noise](https://chromewebstore.google.com/detail/simple-white-noise/fhfipjoccifijjcdnolocdnkbhhjkbjm)
+
 ## What it does
 
 - An on/off toggle to start and stop the sound.
