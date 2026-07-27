@@ -3,8 +3,7 @@ title: White Noise Browser Extension
 date: 2026-07-24T06:45:00.000-06:00
 weight: 0
 draft: false
-summary: "The lightest-weight, open-source, most simple browser extension that
-  does one boring thing: plays white noise. On/off toggle and a volume slider."
+summary: "The lightest-weight, open-source, most simple browser extension that does one boring thing: plays white noise."
 tags:
   - browser-extension
   - javascript
@@ -15,6 +14,8 @@ projectLink:
   url: https://github.com/jonnyjackson26/white-noise-browser-extension
 cover:
   hiddenInSingle: false
+  image: /uploads/white-noise-browser-extension/screenshot.png
+  alt: The Simple White Noise popup with an on/off toggle and volume slider
 ---
 A tiny, open-source Manifest V3 Chrome extension that does exactly one boring thing: plays generated white noise. One popup, one toggle, one volume slider. No files to download, no accounts, no tracking.
 
@@ -41,7 +42,4 @@ No content scripts, no remote code, no analytics, no ads, and no access to the s
 ## Privacy
 
 Nothing is collected or sent anywhere — the only things stored are your on/off setting and volume, kept locally on your own device. See the full [privacy policy](/legal/simple-white-noise-privacy-policy/).
-
-## Try it
-
-The extension folder loads directly as an unpacked extension: open `chrome://extensions`, turn on **Developer mode**, click **Load unpacked**, and select the `extension` folder from the repo.
+The extension does not use analytics, advertising, cookies, remote servers, or third-party services.
