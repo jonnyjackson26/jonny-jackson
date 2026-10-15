@@ -1,12 +1,12 @@
 ---
 title: "Kana Baby Privacy Policy"
-date: 2026-10-13
+date: 2026-10-15
 draft: false
 hidemeta: true
 summary: "Privacy Policy for Kana Baby"
 ---
 
-*Last updated: October 13, 2026*
+*Last updated: October 15, 2026*
 
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 

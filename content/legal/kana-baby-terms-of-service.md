@@ -1,12 +1,12 @@
 ---
 title: "Kana Baby Terms of Service"
-date: 2026-10-13
+date: 2026-10-15
 draft: false
 hidemeta: true
 summary: "Terms of Service for Kana Baby"
 ---
 
-*Last updated: October 13, 2026*
+*Last updated: October 15, 2026*
 
 Please read these Terms of Service ("Terms", "Terms of Service") carefully before using Kana Baby (the "Service") operated by the developer ("us", "we", or "our").
 
