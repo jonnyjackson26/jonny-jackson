@@ -1,0 +1,152 @@
+{{- /*
+  Account-deletion request form (Netlify Forms) with a prefilled-email fallback.
+
+  Usage in any page:
+    {{< delete-request app="Kana Baby" email="you@example.com" >}}
+
+  Params:
+    app     (required) App name. Sent as a hidden field and used in the email subject/body.
+    email   (required) Address the fallback email goes to.
+    success (optional) Path of the thank-you page. Default: /legal/deletion-request-received/
+
+  Every app shares one Netlify form ("account-deletion-request"), so one
+  notification setting covers all of them; the hidden "app" field says which app.
+  Netlify only picks the form up if "form detection" is enabled for the site.
+*/ -}}
+{{- $app := .Get "app" | default "the app" -}}
+{{- $email := .Get "email" -}}
+{{- $success := .Get "success" | default "/legal/deletion-request-received/" -}}
+{{- $subject := printf "Delete my %s account" $app -}}
+{{- $body := printf "Please delete my %s account.\n\nHow I signed in (Apple / Google / Phone / Email): \nEmail or phone number on the account: \n" $app -}}
+{{- /* urlquery encodes spaces as "+", which some mail apps show literally; use %20. */ -}}
+{{- $mailto := printf "mailto:%s?subject=%s&body=%s" $email (replace (urlquery $subject) "+" "%20") (replace (urlquery $body) "+" "%20") -}}
+<style>
+  .delete-request { margin: var(--content-gap, 20px) 0; }
+  .delete-request form {
+    background: var(--entry);
+    border: 1px solid var(--border);
+    border-radius: var(--radius, 8px);
+    padding: 20px;
+  }
+  .delete-request .dr-field { margin-bottom: 18px; }
+  .delete-request .dr-field:last-of-type { margin-bottom: 22px; }
+  .delete-request label,
+  .delete-request legend {
+    display: block;
+    font-weight: 600;
+    color: var(--primary);
+    margin-bottom: 6px;
+  }
+  .delete-request fieldset { border: 0; padding: 0; margin: 0 0 18px; }
+  .delete-request .dr-options { display: flex; flex-wrap: wrap; gap: 8px 18px; }
+  .delete-request .dr-options label {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    font-weight: 400;
+    margin: 0;
+    color: var(--content);
+    cursor: pointer;
+  }
+  .delete-request .dr-options input { accent-color: var(--primary); }
+  .delete-request input[type="text"],
+  .delete-request textarea {
+    width: 100%;
+    box-sizing: border-box;
+    font: inherit;
+    color: var(--primary);
+    background: var(--theme);
+    border: 1px solid var(--tertiary);
+    border-radius: calc(var(--radius, 8px) - 2px);
+    padding: 10px 12px;
+  }
+  .delete-request input[type="text"]:focus,
+  .delete-request textarea:focus {
+    outline: 2px solid var(--secondary);
+    outline-offset: 1px;
+  }
+  .delete-request textarea { min-height: 90px; resize: vertical; }
+  .delete-request .dr-hint {
+    display: block;
+    font-size: 0.85em;
+    color: var(--secondary);
+    margin-top: 6px;
+    font-weight: 400;
+  }
+  .delete-request button {
+    font: inherit;
+    font-weight: 600;
+    cursor: pointer;
+    color: var(--theme);
+    background: var(--primary);
+    border: 0;
+    border-radius: calc(var(--radius, 8px) - 2px);
+    padding: 10px 18px;
+  }
+  .delete-request button:hover { opacity: 0.85; }
+  .delete-request .dr-hidden {
+    position: absolute;
+    left: -10000px;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+  }
+  .delete-request .dr-fallback {
+    margin-top: 24px;
+    padding-top: 18px;
+    border-top: 1px solid var(--border);
+  }
+  .delete-request .dr-mail-button {
+    display: inline-block;
+    font-weight: 600;
+    border: 1px solid var(--tertiary);
+    border-radius: calc(var(--radius, 8px) - 2px);
+    padding: 8px 16px;
+    box-shadow: none;
+    text-decoration: none;
+  }
+  .delete-request .dr-mail-button:hover { background: var(--entry); }
+  .delete-request pre.dr-copy {
+    white-space: pre-wrap;
+    font-size: 0.9em;
+  }
+</style>
+<div class="delete-request">
+  <form name="account-deletion-request" method="POST" action="{{ $success }}" data-netlify="true" netlify-honeypot="bot-field">
+    <input type="hidden" name="form-name" value="account-deletion-request">
+    <input type="hidden" name="app" value="{{ $app }}">
+    <p class="dr-hidden" aria-hidden="true">
+      <label>Leave this empty: <input name="bot-field" tabindex="-1" autocomplete="off"></label>
+    </p>
+
+    <fieldset class="dr-field">
+      <legend>How did you sign in to {{ $app }}?</legend>
+      <div class="dr-options">
+        <label><input type="radio" name="sign-in-method" value="Apple" required> Apple</label>
+        <label><input type="radio" name="sign-in-method" value="Google"> Google</label>
+        <label><input type="radio" name="sign-in-method" value="Phone"> Phone</label>
+        <label><input type="radio" name="sign-in-method" value="Email"> Email</label>
+      </div>
+    </fieldset>
+
+    <div class="dr-field">
+      <label for="dr-account">Email or phone number on the account</label>
+      <input type="text" id="dr-account" name="account" required autocomplete="email">
+      <span class="dr-hint">If you signed in with Apple and chose "Hide My Email", enter the relay address (it ends in @privaterelay.appleid.com). You can look it up in your iPhone's Settings, under your name, in the Sign in with Apple section.</span>
+    </div>
+
+    <div class="dr-field">
+      <label for="dr-message">Anything else? <span class="dr-hint" style="display:inline">(optional)</span></label>
+      <textarea id="dr-message" name="message"></textarea>
+    </div>
+
+    <button type="submit">Request account deletion</button>
+  </form>
+
+  <div class="dr-fallback">
+    <p>Prefer email? Send the request from your mail app:</p>
+    <p><a class="dr-mail-button" href="{{ $mailto | safeURL }}">Email a deletion request</a></p>
+    <p>If that button doesn't open anything, email <strong>{{ $email }}</strong> with the subject "{{ $subject }}" and this message:</p>
+    <pre class="dr-copy"><code>{{ $body }}</code></pre>
+  </div>
+</div>
